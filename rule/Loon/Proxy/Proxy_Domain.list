@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-25 02:30:28
+# UPDATED: 2021-05-27 02:48:49
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 31020
+# DOMAIN-SUFFIX: 31045
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 31197
+# TOTAL: 31222
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -123,7 +123,9 @@ www-cdn.icloud.com.akadns.net
 .0235kk.com
 .0235ll.com
 .0235mm.com
+.0235p.com
 .0235qq.com
+.0235r.com
 .0235s.com
 .0235ss.com
 .0235uu.com
@@ -201,7 +203,6 @@ www-cdn.icloud.com.akadns.net
 .100classicbooks.com
 .100ke.org
 .100mountain.com
-.100tjs.com
 .101.cc.st
 .1010bo888.com
 .101newsmedia.com
@@ -290,6 +291,7 @@ www-cdn.icloud.com.akadns.net
 .123hplaserjet.com
 .123rf.com
 .1260449780-sd.cp168.ws
+.126hostname.stufftoread.com
 .128888.com
 .12bet.com
 .12bet.tv
@@ -338,7 +340,6 @@ www-cdn.icloud.com.akadns.net
 .1511345.com
 .153z.com
 .1540076394.netne.net
-.1552168.com
 .155899.com
 .155pu.com
 .1565111.com
@@ -403,12 +404,14 @@ www-cdn.icloud.com.akadns.net
 .16fhgdty.xyz
 .16hhh.net
 .16ppp.net
+.16xxx.net
 .16yyy.net
 .17.live
 .170880.com
 .171gifs.com
 .173ng.com
 .1769.tv
+.176letou.com
 .17750011.com
 .17753344.com
 .1775aa.com
@@ -420,7 +423,6 @@ www-cdn.icloud.com.akadns.net
 .1783919.com
 .1785178.com
 .1788bet.com
-.178letou.com
 .17avav.xyz
 .17bifa.com
 .17pps.com
@@ -487,7 +489,6 @@ www-cdn.icloud.com.akadns.net
 .1901999.com
 .1905999.com
 .1911900.com
-.1911952.com
 .19119v.com
 .19119x.com
 .191927.com
@@ -713,7 +714,6 @@ www-cdn.icloud.com.akadns.net
 .266.info.tm
 .266660.com
 .2666682.com
-.266908.com
 .26uuu.com
 .26uuu.org
 .27.info.tm
@@ -813,7 +813,6 @@ www-cdn.icloud.com.akadns.net
 .33065.com
 .3308yh.com
 .3322buyu.com
-.332518.com
 .33331.com
 .333337cp.com
 .33339.com
@@ -952,6 +951,7 @@ www-cdn.icloud.com.akadns.net
 .4.every.info.tm
 .4.shop.tm
 .40030d.com
+.400ks.com
 .4022011.com
 .404.mn
 .4040.idv.tw
@@ -1351,6 +1351,7 @@ www-cdn.icloud.com.akadns.net
 .668cc668.com
 .668p668.com
 .668ww668.com
+.66955.com
 .669d.tv
 .66dofan.com
 .66go.vip
@@ -1379,7 +1380,6 @@ www-cdn.icloud.com.akadns.net
 .69990f.com
 .699aa.net
 .699dd.net
-.699kk.net
 .69story.com
 .69vj.com
 .6amc.com
@@ -1546,7 +1546,6 @@ www-cdn.icloud.com.akadns.net
 .835ee.net
 .835ff.net
 .835hhh.net
-.835iii.net
 .835jjj.net
 .835kkk.net
 .835lll.net
@@ -1655,7 +1654,6 @@ www-cdn.icloud.com.akadns.net
 .8899bn.com
 .8899buyu.com
 .88bifa.net
-.88bifa.vip
 .88btt.com
 .88cp00.com
 .88cpapp1.com
@@ -1676,7 +1674,6 @@ www-cdn.icloud.com.akadns.net
 .89901.com
 .89951.com
 .899722.com
-.89letou.com
 .8bodog.com
 .8cours.weebly.com
 .8course.weebly.com
@@ -1716,7 +1713,6 @@ www-cdn.icloud.com.akadns.net
 .91porn.w3p.la
 .91sp.v3p.co
 .91stw.net
-.91thd.vip
 .91tianlu.com
 .91vpn.com
 .91vps.club
@@ -1741,7 +1737,6 @@ www-cdn.icloud.com.akadns.net
 .9368397.com
 .9388js.com
 .939016.com
-.939025.com
 .939027.com
 .93tang.top
 .94.viewdns.net
@@ -1758,7 +1753,6 @@ www-cdn.icloud.com.akadns.net
 .9499zzz.com
 .955.info.tm
 .95662222bb.com
-.9566790.com
 .95990003.cc
 .9599001.net
 .95991100.com
@@ -1771,10 +1765,10 @@ www-cdn.icloud.com.akadns.net
 .95jyb005.com
 .95jyb006.com
 .95jyb11.com
+.95letou.com
 .965.jiuweike.com
 .966cp7.com
 .966cpa.com
-.96777.cc
 .9685.net
 .9685.tt
 .9685e.com
@@ -2062,6 +2056,7 @@ www-cdn.icloud.com.akadns.net
 .acg18.life
 .acg18.me
 .acg18.org
+.acg18.us
 .acgbox.org
 .acgbuster.moe
 .acgft.net
@@ -2452,9 +2447,9 @@ www-cdn.icloud.com.akadns.net
 .akiba-web.com
 .akii.ml
 .akii.work
+.akitainu.cl
 .akiyama.ca
 .aklen.net
-.akmc.lt
 .akow.org
 .akriluss.cl
 .aktifhaber.com
@@ -2480,8 +2475,8 @@ www-cdn.icloud.com.akadns.net
 .alfaromeo
 .alforattv.net
 .alfredapp.com
+.algogator.com
 .alhayat.com
-.alice.xfu.jp
 .alicejapan.co.jp
 .alicloud.com
 .aliengu.com
@@ -2540,12 +2535,10 @@ www-cdn.icloud.com.akadns.net
 .allstate.com
 .allthingsd.com
 .alluc.com
-.alluc.org
 .allunblocked.com
 .ally
 .almasdarnews.com
 .almgo.org
-.almoneera.com
 .almostmy.com
 .alohabrowser.com
 .alotporn.com
@@ -2803,6 +2796,7 @@ www-cdn.icloud.com.akadns.net
 .anfutong.com
 .angela-merkel.de
 .angelahui.com
+.angelblog.jp
 .angelfire.com
 .angelwind.tw
 .angheliu.ro
@@ -2874,7 +2868,6 @@ www-cdn.icloud.com.akadns.net
 .anxit.comuf.com
 .anxpro.com
 .anyalandman.com
-.anycast.dns1.nextdns.io
 .anyporn.com
 .anysex.com
 .anyvpn.link
@@ -3356,6 +3349,7 @@ www-cdn.icloud.com.akadns.net
 .assimp.org
 .assisass.com
 .assitport.co.za
+.asso-zerodistance.weebly.com
 .associates-amazon.com
 .assortednotions.com
 .asstr.org
@@ -3610,7 +3604,6 @@ www-cdn.icloud.com.akadns.net
 .az
 .azerbaycan.tv
 .azerimix.com
-.azim-ahmad.my
 .azirevpn.com
 .azirevpn.net
 .aznmovies.com
@@ -3725,7 +3718,6 @@ www-cdn.icloud.com.akadns.net
 .ba88800.com
 .baabao.com
 .baazee.com
-.baazee.de
 .babble.com
 .babes.com
 .baby-kingdom.com
@@ -4385,6 +4377,7 @@ www-cdn.icloud.com.akadns.net
 .bestwestern.com
 .besztbuy.com
 .bet16.com
+.bet222.com
 .bet301.com
 .bet365.es
 .bet3658802.com
@@ -4755,6 +4748,7 @@ www-cdn.icloud.com.akadns.net
 .blogdns.org
 .blogebay.com
 .blogger.com
+.blogging.nitecruzr.net
 .blogimg.jp
 .blogkeen.com
 .bloglines.com
@@ -5226,6 +5220,7 @@ www-cdn.icloud.com.akadns.net
 .boomtrain.com
 .boots
 .bootstrapcdn.com
+.borderlandindustry.ml
 .borderlands-books.com
 .borderlessprepaid.com
 .boringart.lt
@@ -5306,7 +5301,6 @@ www-cdn.icloud.com.akadns.net
 .bravotube.com
 .bravotube.net
 .brazilpartneruniversity.com
-.brazzers-girls.com
 .brazzers.com
 .brazzersnetwork.com
 .brazzerstveurope.com
@@ -6083,6 +6077,7 @@ www-cdn.icloud.com.akadns.net
 .cccat.cc
 .cccat.co
 .cccat.io
+.ccchinatour2017.weebly.com
 .cccp004.com
 .ccdtr.org
 .ccenter.cl
@@ -6421,7 +6416,6 @@ www-cdn.icloud.com.akadns.net
 .chinahush.com
 .chinainformation.com.au
 .chinainperspective.com
-.chinainperspective.net
 .chinainperspective.org
 .chinainterimgov.org
 .chinaisgay.com
@@ -6498,7 +6492,6 @@ www-cdn.icloud.com.akadns.net
 .chkci.org.hk
 .chloe
 .chn.the-liberty.com
-.chnqiang.com
 .chnroute.com
 .chobit.cc
 .chocalanwines.com
@@ -6609,6 +6602,7 @@ www-cdn.icloud.com.akadns.net
 .cispaletter.com
 .cispaletter.org
 .cispeaks.com
+.cissecurities.com
 .citadel
 .citadel.prophpbb.com
 .citi
@@ -6732,6 +6726,7 @@ www-cdn.icloud.com.akadns.net
 .cloudmosa.com
 .cloudn.me
 .cloudrobotics.com
+.cloudtv.bz
 .cloudup.com
 .cloudvolumes.com
 .cloudy2.gq
@@ -6855,6 +6850,7 @@ www-cdn.icloud.com.akadns.net
 .cocoapods.org
 .cocp.trade.gov.tw
 .cod86.com
+.cod98.com
 .code.org
 .code1984.com
 .code4hk.hackpad.com
@@ -7398,7 +7394,6 @@ www-cdn.icloud.com.akadns.net
 .d7666.com
 .d8118.com
 .d88.com
-.d9917.com
 .d9965.com
 .da-files.com
 .da-men.com
@@ -7447,6 +7442,7 @@ www-cdn.icloud.com.akadns.net
 .dailysabah.com
 .dailysignal.com
 .dailystrength.org
+.dailytimes.com.pk
 .dailytodo.org
 .dailyview.tw
 .dainikpost.com
@@ -7524,7 +7520,6 @@ www-cdn.icloud.com.akadns.net
 .darwinsource.org
 .darwinsourcecode.com
 .dashlane.com
-.dashnet.org
 .dashwood360.com
 .dasjak.net
 .dastrassi.org
@@ -7673,6 +7668,7 @@ www-cdn.icloud.com.akadns.net
 .deck.ly
 .decodet.co
 .decolores.cl
+.deconversion.org
 .dedelu.com
 .deepl.com
 .deepmind.com
@@ -7722,6 +7718,7 @@ www-cdn.icloud.com.akadns.net
 .demonoid.pw
 .demoprint.com
 .demosisto.hk
+.denceportfolio.weebly.com
 .dengeamerika.com
 .dengeki.com
 .dengiamerika.com
@@ -7875,6 +7872,7 @@ www-cdn.icloud.com.akadns.net
 .direcpath.com
 .direcpath.net
 .directcreative.com
+.directoryofglendale.com
 .directsupport.pt
 .directtv-deals.tv
 .directtv-dish.com
@@ -8008,6 +8006,7 @@ www-cdn.icloud.com.akadns.net
 .dizhuzhishang.com
 .dj-dancefloor.com
 .dj7888.com
+.dj7999.com
 .djangosnippets.org
 .djbcr.com
 .djorz.com
@@ -8085,6 +8084,7 @@ www-cdn.icloud.com.akadns.net
 .dns.twnic.tw
 .dns04.com
 .dns05.com
+.dns1.nextdns.io
 .dns1.ryan-palmer.com
 .dns1.us
 .dns2.us
@@ -8245,6 +8245,8 @@ www-cdn.icloud.com.akadns.net
 .dowjones.io
 .dowjoneson.com
 .down.99oi.us
+.down.gateswq.net
+.down.timcok.com
 .download.91porn005.me
 .download.bluesprig.com
 .download.camfrogcdn.com
@@ -8923,7 +8925,6 @@ www-cdn.icloud.com.akadns.net
 .elephantvpn.com
 .eletrica.eng.br
 .elgoog.im
-.elgusto.com.br
 .elhamdashti.ir
 .elianapinzon.com
 .elifesciences.org
@@ -9050,7 +9051,6 @@ www-cdn.icloud.com.akadns.net
 .environment.google
 .envitreat.biz
 .envitreat.net
-.envitreat.us
 .enwp.org
 .eo.demerzel.org
 .eogli.org
@@ -9065,6 +9065,7 @@ www-cdn.icloud.com.akadns.net
 .epigeum.com
 .epinions.com
 .episcopalchurch.org
+.episcopalchurch.org.tw
 .episodic.com
 .epoch.cloud
 .epochbuy.com
@@ -9269,6 +9270,7 @@ www-cdn.icloud.com.akadns.net
 .exploreintel.com
 .expo-peru.com
 .expo.com
+.expochinamexico.com.mx
 .expofutures.com
 .exprescomputers.eu
 .express-vpn-links.com
@@ -10563,7 +10565,6 @@ www-cdn.icloud.com.akadns.net
 .freezing.tv
 .freiheit.org
 .freindfeed.com
-.freitag.ch
 .freizeit-und-technik.com
 .frescolib.org
 .fresenius
@@ -10828,7 +10829,6 @@ www-cdn.icloud.com.akadns.net
 .g0v.social
 .g2.cctvgeo.akadns.net
 .g211202.comuf.com
-.g33285.com
 .g4w.me
 .g6hentai.com
 .ga
@@ -10988,7 +10988,6 @@ www-cdn.icloud.com.akadns.net
 .gcrtires.com
 .gcw800.com
 .gd
-.gd9vip.net
 .gdansk-amazon.com
 .gdbt.net
 .gdg.com.ar
@@ -11210,6 +11209,7 @@ www-cdn.icloud.com.akadns.net
 .girlbanker.com
 .girlfriendvideos.com
 .girlprops.com
+.girlsgogames.com
 .git-scm.com
 .git.io
 .gitbook.com
@@ -11250,7 +11250,6 @@ www-cdn.icloud.com.akadns.net
 .gle
 .glean
 .gleeze.com
-.gleichheit.de
 .glennhilton.com
 .glide.com
 .global-proxy.com
@@ -11448,6 +11447,7 @@ www-cdn.icloud.com.akadns.net
 .google.ai
 .google.al
 .google.am
+.google.analytics.com
 .google.as
 .google.at
 .google.az
@@ -12092,6 +12092,7 @@ www-cdn.icloud.com.akadns.net
 .have8.com
 .haveibeenpwned.com
 .hawaiibmw.com
+.hawaiipacifichealth.org
 .hayabusa.dev
 .hayabusa.io
 .hayabusa.media
@@ -12224,6 +12225,7 @@ www-cdn.icloud.com.akadns.net
 .helpzhuling.org
 .hen24.com
 .hengcai88.com
+.henmang.net
 .hentai.animestigma.com
 .hentai.as
 .hentai.to
@@ -12262,7 +12264,6 @@ www-cdn.icloud.com.akadns.net
 .hex.win
 .hexieshe.com
 .hexieshe.xyz
-.hexlotto.com
 .hexxeh.net
 .heyav.tv
 .heydoga.com
@@ -12337,7 +12338,6 @@ www-cdn.icloud.com.akadns.net
 .higginbotham.name
 .highbolt.net
 .highdefinitionbeatsbydre.com
-.highmaster.com.br
 .highpeakspureearth.com
 .highrockmedia.com
 .hightail.com
@@ -12598,6 +12598,7 @@ www-cdn.icloud.com.akadns.net
 .honeywell
 .hong.com
 .hongkong-s02-i02.cg-dialup.net
+.hongkong.nhtglobal.com
 .hongkongfp.com
 .honglinzhang.com
 .hongmeimei.com
@@ -12818,6 +12819,7 @@ www-cdn.icloud.com.akadns.net
 .hrf.org
 .hrichina.org
 .hromadske.tv
+.hrs5555.com
 .hrsaz.com
 .hrtsea.com
 .hrw.org
@@ -12868,11 +12870,10 @@ www-cdn.icloud.com.akadns.net
 .huaxia-news.com
 .huaxiabao.org
 .huaxin.ph
+.huayanjiyu.com
 .huayuworld.org
 .huaze.org
 .hub.gf175588.com
-.hub.mp176588.com
-.hub.tk176688.com
 .huc111.com
 .huc44.com
 .huc755.com
@@ -13359,6 +13360,7 @@ www-cdn.icloud.com.akadns.net
 .imstagram.com
 .imsystem.site
 .imtagram.com
+.imxiqi.com
 .in
 .in-disguise.com
 .in.com
@@ -13658,7 +13660,6 @@ www-cdn.icloud.com.akadns.net
 .ipchameleon.com
 .ipchanging.com
 .ipconceal.com
-.ipcworks.ipc.org
 .ipdisguiser.com
 .ipfire.org
 .ipfs.infura.io
@@ -14219,10 +14220,12 @@ www-cdn.icloud.com.akadns.net
 .jinbushe.org
 .jing1155.com
 .jingking.net
+.jingling.me
 .jingpin.org
 .jingsim.org
 .jingzhoushi1.xyz
 .jinhai.de
+.jinhui163.w5-e2.ezwebtest.com
 .jinkela.pw
 .jinma123.net
 .jinnaju.com
@@ -14307,7 +14310,6 @@ www-cdn.icloud.com.akadns.net
 .johntool.com
 .johren.net
 .joinbbs.net
-.joinbl.xyz
 .joinclubhouse.com
 .joinmaidez.com
 .joinmastodon.org
@@ -14473,10 +14475,12 @@ www-cdn.icloud.com.akadns.net
 .k5222.com
 .k5ww.com
 .k7203.com
+.k7lah99m678.com
 .k8.com
 .k8222.com
 .k86990.com
 .k883.com
+.k89168.com
 .k8s.io
 .k8vip666.com
 .k9299.com
@@ -14843,7 +14847,6 @@ www-cdn.icloud.com.akadns.net
 .kunstler.tor-exit.calyxinstitute.org
 .kuobee.com
 .kuokgroup
-.kuomeals.weebly.com
 .kurashsultan.com
 .kurinjikathambam.com
 .kurtmunger.com
@@ -15086,8 +15089,10 @@ www-cdn.icloud.com.akadns.net
 .lesoir.be
 .lessonsindemocracy.org
 .lester850.info
+.let020.com
 .let62.com
 .let66.net
+.let77.net
 .let78.net
 .let79.net
 .let85.com
@@ -15110,11 +15115,11 @@ www-cdn.icloud.com.akadns.net
 .letou310.com
 .letou321.com
 .letou500.net
+.letou6.com
 .letou66.net
 .letou661.com
 .letou666.com
 .letou679.com
-.letou70.com
 .letou77.net
 .letou798.com
 .letou811.com
@@ -15276,6 +15281,7 @@ www-cdn.icloud.com.akadns.net
 .linuxfoundation.org
 .linuxfromscratch.org
 .linuxmint.com
+.linuxnews.idv.tw
 .linuxtoy.org
 .lionsroar.com
 .lipsy
@@ -15495,7 +15501,6 @@ www-cdn.icloud.com.akadns.net
 .lt118.com
 .lt299.com
 .lt399.com
-.lt499.com
 .lt509.com
 .lt519.com
 .lt619.com
@@ -15507,7 +15512,6 @@ www-cdn.icloud.com.akadns.net
 .ltou11.com
 .ltou178.com
 .ltou199.com
-.ltou39.com
 .ltou666.com
 .ltou818.com
 .ltou889.com
@@ -15540,7 +15544,6 @@ www-cdn.icloud.com.akadns.net
 .lungta.cz
 .luo.bo
 .luoti.biz
-.luoyufei.tk
 .lupin
 .lupm.org
 .lupoporno.com
@@ -15752,6 +15755,7 @@ www-cdn.icloud.com.akadns.net
 .magentomobile.com
 .maggiebears.com
 .magic-net.info
+.magicalaska-form.weebly.com
 .magiccloak.net
 .magictea.xyz
 .magzter.com
@@ -15814,6 +15818,7 @@ www-cdn.icloud.com.akadns.net
 .maison.kose.co.jp
 .maiya3.com
 .maizhong.org
+.majorschampionships.com
 .mak.com.au
 .makaan.com
 .makebettercode.com
@@ -15941,6 +15946,7 @@ www-cdn.icloud.com.akadns.net
 .marxist.net
 .marxists.org
 .maryfloo.cl
+.masalalu.gq
 .masalili.tw
 .masalladeloslimites.com
 .maserati
@@ -16028,7 +16034,6 @@ www-cdn.icloud.com.akadns.net
 .maybelline
 .mayimayi.com
 .maying.co
-.mazika2day.com
 .mbeats-tech.com
 .mbetway88.agent1818.com
 .mbheadphone.com
@@ -16036,10 +16041,8 @@ www-cdn.icloud.com.akadns.net
 .mbuat.dahsing.com
 .mbxjs920.com
 .mc
-.mca66.com
 .mcadforums.com
 .mcaf.ee
-.mcatlove.com
 .mccentre.org.au
 .mcclatchydc.com
 .mccormicklit.com
@@ -16556,6 +16559,7 @@ www-cdn.icloud.com.akadns.net
 .mixturecloud.com
 .mixx.com
 .mizzmona.com
+.mjfuentes.com
 .mjib.gov.tw
 .mjpservices.us
 .mjsnails.com.au
@@ -16687,6 +16691,7 @@ www-cdn.icloud.com.akadns.net
 .money.yandex.ru
 .moneydodo.idv.tw
 .moneyhome.biz
+.moneynet.tw
 .moneywithfacebook.com
 .mongodb.com
 .mongodb.org
@@ -16794,6 +16799,7 @@ www-cdn.icloud.com.akadns.net
 .mortein.com.pk
 .morteincam.com
 .mos.ru
+.mostawesomeoffers.com
 .mosucloud.one
 .motherless.com
 .moticonci.com
@@ -16871,9 +16877,9 @@ www-cdn.icloud.com.akadns.net
 .mrcat123.com
 .mrcat166.com
 .mrcat168.com
+.mrcat3.com
 .mrcat666.com
 .mrcat68.com
-.mrcatgame.com
 .mrcboy.com
 .mrface.com
 .mrgreen.com
@@ -16887,7 +16893,6 @@ www-cdn.icloud.com.akadns.net
 .mrt166.com
 .mrt188.com
 .mrtc28.com
-.mrtome.com
 .mrtweet.com
 .ms-studiosmedia.com
 .ms.kity.pw
@@ -16936,6 +16941,7 @@ www-cdn.icloud.com.akadns.net
 .mtn
 .mtpc
 .mtr
+.mtrfoods.com
 .mtslash.me
 .mtt.org
 .mtvav.com
@@ -16965,6 +16971,7 @@ www-cdn.icloud.com.akadns.net
 .multiupload.com
 .mummysgold.com
 .muncloud.dog
+.muramura.tv
 .murmur.tw
 .murmurcn.com
 .murtadho.com.br
@@ -17159,6 +17166,7 @@ www-cdn.icloud.com.akadns.net
 .mynetav.org
 .mynike.com
 .mynumber.org
+.myothantsinaung.weebly.com
 .mypaper.sg
 .myparagliding.com
 .mypearson.com
@@ -17361,6 +17369,7 @@ www-cdn.icloud.com.akadns.net
 .nccwatch.org.tw
 .nch.com.tw
 .nchrd.org
+.ncku-letsgo.weebly.com
 .ncn.org
 .ncol.com
 .nd.joyphoto.ro
@@ -18677,6 +18686,7 @@ www-cdn.icloud.com.akadns.net
 .padmanet.com
 .pagalguy.com
 .pagani.com
+.paganwiccan.about.com
 .page.freett.com
 .page.link
 .page.tl
@@ -18952,7 +18962,6 @@ www-cdn.icloud.com.akadns.net
 .pc.com
 .pc.olife.org
 .pc.php5.us
-.pc.sign4peacedemocracy.hk
 .pc.tv333.us
 .pc1.9baf1.com
 .pca-express.com
@@ -19273,11 +19282,9 @@ www-cdn.icloud.com.akadns.net
 .pjbadh1.club
 .pjbar.xyz
 .pjbar2.xyz
-.pjbar7.xyz
 .pjdc0055.com
 .pjdc1122.com
 .pjdc1133.com
-.pjdc5511.com
 .pjdc5522.com
 .pjdc5566.com
 .pjdc5577.com
@@ -19606,6 +19613,7 @@ www-cdn.icloud.com.akadns.net
 .prestige-av.com
 .prestigecasino.com
 .prestigeused.co.za
+.prettyteentube.com
 .prettyvirgin.com
 .prevencao.org.br
 .preview.editmysite.com
@@ -19673,6 +19681,7 @@ www-cdn.icloud.com.akadns.net
 .products.copangroup.com
 .programthinkmirror.com
 .progressive
+.progressive.com
 .prohub.com
 .project-syndicate.org
 .projectapex.com
@@ -19747,6 +19756,7 @@ www-cdn.icloud.com.akadns.net
 .proxy.cool
 .proxy.org
 .proxy.searchfiles.de
+.proxy.toolur.com
 .proxy.yt
 .proxy2974.my-addr.org
 .proxy4free.com
@@ -19885,7 +19895,6 @@ www-cdn.icloud.com.akadns.net
 .pulsacijazivota.com
 .punked.us
 .punyu.com
-.puppy.com
 .pure18.com
 .pureapk.com
 .pureconcepts.net
@@ -20391,7 +20400,6 @@ www-cdn.icloud.com.akadns.net
 .rejecttheccp.com
 .rejoiceatsameway.org.au
 .relateiq.com
-.relax.riley.love
 .relaxbbs.com
 .relay.com.tw
 .relearnings.com
@@ -20501,10 +20509,12 @@ www-cdn.icloud.com.akadns.net
 .richkindle.com
 .rickaube.com
 .rickhuang.asuscomm.com
+.ricochet.im
 .ricoh
 .riddim.com.ar
 .rideexpress.com
 .ridepenguin.com
+.ridgeline-roofing.com
 .rigaero.com
 .rightathome
 .rightbtc.com
@@ -20562,7 +20572,6 @@ www-cdn.icloud.com.akadns.net
 .robfuscate.com
 .robinlintec.com
 .robinlintech.com
-.robofan.ro
 .roboforex.com
 .roboforex.tw
 .roboforexchina.com
@@ -20574,8 +20583,10 @@ www-cdn.icloud.com.akadns.net
 .rocket-inc.net
 .rocketbbs.com
 .rocketfishproducts.com
+.rockethub.com
 .rocketvpn.net
 .rockndrolll.weebly.com
+.rockpays.com
 .rocksdb.com
 .rocksdb.net
 .rocksdb.org
@@ -20808,7 +20819,6 @@ www-cdn.icloud.com.akadns.net
 .salth2ofish.com
 .salvation.org.hk
 .salvationarmyradio.org
-.samace.ca
 .samair.ru
 .samaskew.com
 .sambhota.org
@@ -20909,6 +20919,7 @@ www-cdn.icloud.com.akadns.net
 .sbf741.com
 .sbf771.com
 .sbf812.com
+.sbf822.com
 .sbf899.com
 .sbf977.com
 .sbf99.com
@@ -21101,7 +21112,6 @@ www-cdn.icloud.com.akadns.net
 .seqingx.com
 .sequence.com
 .seraph.me
-.serasaexperian.net
 .sergapnews.com
 .serialssolutions.com
 .sertanejas.net
@@ -21179,6 +21189,7 @@ www-cdn.icloud.com.akadns.net
 .sextube-android.com
 .sextube.com
 .sextube.com.tw
+.sextubepromo.com
 .sextvx.com
 .sexu.com
 .sexuhot.com
@@ -21285,7 +21296,6 @@ www-cdn.icloud.com.akadns.net
 .shanghai.china-tripnavi.com
 .shanghai.happymassage.com
 .shanghai.ist
-.shanghaibeerweek.com
 .shanghaiist.com
 .shanghainationalparty.com
 .shangrila
@@ -21508,6 +21518,7 @@ www-cdn.icloud.com.akadns.net
 .sipml5.org
 .siport.com
 .sipriyearbook.org
+.sipurderech.co.il
 .siri.com
 .sis.hk-wesee.xyz
 .sis.hkbisi.com
@@ -21700,6 +21711,7 @@ www-cdn.icloud.com.akadns.net
 .socialblade.com
 .socialeel.com
 .socialequality.com
+.socialequality.org.uk
 .socialmonkee.com
 .socialnomad.com
 .socialprogress.org
@@ -23036,6 +23048,7 @@ www-cdn.icloud.com.akadns.net
 .thestandnews.com
 .thestar.com
 .thestationbymaker.com
+.thestuarts.ch
 .thesun.co.uk
 .thesunbehindtheclouds.com
 .thetend.com
@@ -23654,7 +23667,6 @@ www-cdn.icloud.com.akadns.net
 .tube8.es
 .tube88.com
 .tube8freeporn.com
-.tube8platinum.com
 .tube911.com
 .tubecup.com
 .tubegalore.com
@@ -23729,6 +23741,7 @@ www-cdn.icloud.com.akadns.net
 .turbovpn.co
 .turismolachacra.cl
 .turkeydaystuffing.com
+.turkeyswar.com
 .turkishairlines.com
 .turkishpod101.com
 .turkistantimes.com
@@ -23860,7 +23873,6 @@ www-cdn.icloud.com.akadns.net
 .twftp.org
 .twgngc.cnns.tw
 .twgreatdaily.com
-.twgtaguild.tk
 .twhawk.tw
 .twibase.com
 .twibble.de
@@ -24056,6 +24068,7 @@ www-cdn.icloud.com.akadns.net
 .ugg.com
 .ugo.com
 .uhdwallpapers.org
+.uhostjobs.com
 .uhrp.org
 .uhub.com
 .uighur.nl
@@ -24263,7 +24276,6 @@ www-cdn.icloud.com.akadns.net
 .us1.vpnme.me
 .us2.vpnme.me
 .us3.wd222.net
-.us52.cf
 .usa-beatsbydreheadphonesonsale.net
 .usacn.com
 .usahealth.xyz
@@ -24422,6 +24434,7 @@ www-cdn.icloud.com.akadns.net
 .van698.com
 .vana
 .vanaja.com.au
+.vanbuilder.com
 .vanchuyencampuchia.vn
 .vancitybuzz.ca
 .vancitybuzz.com
@@ -24500,6 +24513,7 @@ www-cdn.icloud.com.akadns.net
 .vemma6868.weebly.com
 .venbbs.com
 .venchina.com
+.vending24.weebly.com
 .vendu.com
 .venetianmacao.com
 .venmo-touch.com
@@ -24599,6 +24613,7 @@ www-cdn.icloud.com.akadns.net
 .video-one.com
 .video-sport.pl
 .video.genyt.net
+.video.xgfemdom.com
 .videobam.com
 .videobreakdown.com
 .videochampion.com
@@ -24766,6 +24781,7 @@ www-cdn.icloud.com.akadns.net
 .visiontimesjp.com
 .visit.uncensoredlibrary.com
 .visitor.pixplug.in
+.visko.com.au
 .vista
 .vistaprint
 .visualstudio-staging.com
@@ -25139,6 +25155,7 @@ www-cdn.icloud.com.akadns.net
 .vw8858.com
 .vwin.com
 .vwin000.com
+.vwin002.com
 .vwin01.com
 .vwin055.com
 .vwin100.com
@@ -25205,6 +25222,7 @@ www-cdn.icloud.com.akadns.net
 .w88info.com
 .w88w989.com
 .w9233.com
+.w9522.com
 .w9711.com
 .wa.dnsmail.xyz
 .wa.domain888.pw
@@ -25311,14 +25329,14 @@ www-cdn.icloud.com.akadns.net
 .wby118.com
 .wc.yooooo.us
 .wc011.com
-.wc025.com
 .wc026.com
 .wc1-api.wwdlw78.com
 .wc1-loud.wwdlw78.com
 .wc1-loud2.wwdlw78.com
 .wc1-loud3.wwdlw78.com
-.wc977.com
+.wc887.com
 .wc990.com
+.wc997.com
 .wcnc.com
 .wd-c.hnsf888.com
 .wd.com
@@ -25353,7 +25371,6 @@ www-cdn.icloud.com.akadns.net
 .web.edapp.com
 .web.telegrammy.ml
 .web.ucw.idv.tw
-.web.whatsapp.nl
 .web.xieshenglin.com
 .web2.siteengineserver.com
 .web23.ga
@@ -25393,7 +25410,6 @@ www-cdn.icloud.com.akadns.net
 .webmail.allgaier.de
 .webmail.cox.net
 .webmail.excelorthodontics.com
-.webmail.fix-well.com
 .webmail.intrepidcs.com
 .webmail.lonestar.edu
 .webmail.mtco.com
@@ -25401,6 +25417,7 @@ www-cdn.icloud.com.akadns.net
 .webmasters.ru
 .webmastervpn.com
 .webmediacom.com
+.webmobinetworks.com
 .webmoneyinfo.com
 .webmproject.org
 .weboas.is
@@ -26037,6 +26054,7 @@ www-cdn.icloud.com.akadns.net
 .www.10066hg.com
 .www.100most.com.hk
 .www.100sihu.com
+.www.100tjs.com
 .www.1024boy.com
 .www.10480000.com
 .www.106sihu.com
@@ -26045,7 +26063,6 @@ www-cdn.icloud.com.akadns.net
 .www.10bet888.com
 .www.111we.com
 .www.112233a.com
-.www.1144hu.com
 .www.115sihu.com
 .www.117708.com
 .www.118518.com
@@ -26150,7 +26167,6 @@ www-cdn.icloud.com.akadns.net
 .www.20188c.com
 .www.2018wang.net
 .www.219xx.com
-.www.222bg.com
 .www.2235h.com
 .www.224tt.com
 .www.228fun.com
@@ -26322,6 +26338,7 @@ www-cdn.icloud.com.akadns.net
 .www.66hbo.com
 .www.670038.com
 .www.6909.com
+.www.69192.com
 .www.699ii.net
 .www.70066hg.com
 .www.705244.com
@@ -26332,6 +26349,7 @@ www-cdn.icloud.com.akadns.net
 .www.71938811.com
 .www.72jd.com
 .www.757aa.net
+.www.7646.com
 .www.76650000.com
 .www.76wyt.com
 .www.772776.com
@@ -26382,6 +26400,7 @@ www-cdn.icloud.com.akadns.net
 .www.888gc.com
 .www.888gongsi.com
 .www.8899pjdc.com
+.www.88bifa.vip
 .www.88bs88.com
 .www.88fanya.com
 .www.88gpz.com
@@ -26393,7 +26412,6 @@ www-cdn.icloud.com.akadns.net
 .www.88sjz.com
 .www.88winn.com
 .www.88xjb.com
-.www.88ys.com
 .www.88yule12.com
 .www.8964.com
 .www.8proxy.com
@@ -26418,6 +26436,7 @@ www-cdn.icloud.com.akadns.net
 .www.929061.com
 .www.92avday.com
 .www.92sihu.com
+.www.939025.com
 .www.93sihu.com
 .www.941hd.com
 .www.942porn.net
@@ -26428,6 +26447,7 @@ www-cdn.icloud.com.akadns.net
 .www.960335.com
 .www.960876.com
 .www.960986.com
+.www.96777.cc
 .www.96vpn.com
 .www.97.net
 .www.975648125.com
@@ -26617,6 +26637,7 @@ www-cdn.icloud.com.akadns.net
 .www.asqzmy.com
 .www.asteimmobili.it
 .www.astost.com
+.www.astray.com
 .www.astrid.com
 .www.astro.org
 .www.aswetalk.net
@@ -26839,11 +26860,11 @@ www-cdn.icloud.com.akadns.net
 .www.boyztube.com
 .www.bozhidao.com
 .www.bp8nyohd6k.com
+.www.brazzers-girls.com
 .www.brcparticipate.com
 .www.breakingnews.com
 .www.breakwall.org
 .www.brenda88.idv.tw
-.www.bresslercc.com
 .www.brickstuff.com
 .www.brighteon.com
 .www.browsercam.com
@@ -27045,6 +27066,7 @@ www-cdn.icloud.com.akadns.net
 .www.citypress.co.za
 .www.cjmall.com
 .www.clf988.com
+.www.climateers.org
 .www.clinicalterminology.org
 .www.clipfish.com
 .www.cloudpn.top
@@ -27052,7 +27074,6 @@ www-cdn.icloud.com.akadns.net
 .www.cmc.gov.tw
 .www.cmcmarkets.co.uk
 .www.cmmedia.com.tw
-.www.cn.tradetech.net
 .www.cna.asia
 .www.cna.com.hk
 .www.cnbetway.com
@@ -27068,7 +27089,6 @@ www-cdn.icloud.com.akadns.net
 .www.coa.gov.tw
 .www.cocktailsforever.com
 .www.cocomy.net
-.www.cod98.com
 .www.codereddit.com
 .www.coinall.com
 .www.coinic.com
@@ -27088,6 +27108,7 @@ www-cdn.icloud.com.akadns.net
 .www.couleur3.ch
 .www.countytimes.co.uk
 .www.covertbrowsing.com
+.www.coyote.com
 .www.cp1897.com.hk
 .www.cp3511.com
 .www.cppa-dc.org
@@ -27099,6 +27120,7 @@ www-cdn.icloud.com.akadns.net
 .www.crackle.com.ve
 .www.cravedelibar.com
 .www.cre13.com
+.www.crexyer.com
 .www.crocoguide.com
 .www.crossvpn.org
 .www.crsna2015.tk
@@ -27128,7 +27150,6 @@ www-cdn.icloud.com.akadns.net
 .www.cyh.org.tw
 .www.cyworld.co.kr
 .www.cz100.net
-.www.d58955.com
 .www.d8898.com
 .www.da555.org
 .www.daanwielens.com
@@ -27139,7 +27160,6 @@ www-cdn.icloud.com.akadns.net
 .www.dafu118.com
 .www.daigobang.com
 .www.dailydalailama.com
-.www.dailytimes.com.pk
 .www.dailyvpn.io
 .www.dajinyule.vip
 .www.dakashangche.net
@@ -27370,6 +27390,7 @@ www-cdn.icloud.com.akadns.net
 .www.expressvpn.pm
 .www.extrabux.com
 .www.ey.gov.tw
+.www.eynt.com
 .www.ezfuntaiwan.com
 .www.eztw.com
 .www.f3.proxymice.com
@@ -27484,6 +27505,7 @@ www-cdn.icloud.com.akadns.net
 .www.freefuckvidz.com
 .www.freehostia.com
 .www.freeinchina.org
+.www.freekidstories.org
 .www.freelxb.com
 .www.freemalaysiatoday.com
 .www.freemansec.com
@@ -27604,7 +27626,6 @@ www-cdn.icloud.com.akadns.net
 .www.gamer4eva.com
 .www.gamesofdesire.com
 .www.gamestar.de
-.www.gardeningknowhow.com
 .www.gartour.net
 .www.gateway2travel.com
 .www.gay104.com
@@ -27670,6 +27691,7 @@ www-cdn.icloud.com.akadns.net
 .www.goindietv.com
 .www.goldenfrog.ch
 .www.goldesel.de
+.www.goodthaigirl.com
 .www.googke.me
 .www.google-ch.com
 .www.google.co.hu
@@ -27752,7 +27774,6 @@ www-cdn.icloud.com.akadns.net
 .www.hd-wheels.com
 .www.hd21.com
 .www.hd95996.com
-.www.hdchd.com
 .www.hdwheelsonline.com
 .www.hdwin.idv.tw
 .www.hdzone.org
@@ -27770,6 +27791,7 @@ www-cdn.icloud.com.akadns.net
 .www.hentaifox.com
 .www.hentaimg.com
 .www.hentairon.net
+.www.herald.ie
 .www.heralddeparis.com
 .www.heraldscotland.com
 .www.hernia.idv.tw
@@ -27822,6 +27844,7 @@ www-cdn.icloud.com.akadns.net
 .www.hkrdb.net
 .www.hksinolink.com.hk
 .www.hkswgu.org.hk
+.www.hl.gov.tw
 .www.hl168.com
 .www.hlqp.app
 .www.hm61881.vip
@@ -27918,6 +27941,7 @@ www-cdn.icloud.com.akadns.net
 .www.imoredo.com
 .www.impeachbiden.com
 .www.imxprs.com
+.www.in.gr
 .www.inbeijing.se
 .www.indiagetonline.in
 .www.indianporngirls.com
@@ -28150,6 +28174,7 @@ www-cdn.icloud.com.akadns.net
 .www.khg56.com
 .www.khkinstruments.com
 .www.kibase.com
+.www.kidderminstershuttle.co.uk
 .www.kidinn.com
 .www.killingfieldsmuseum.com
 .www.kimandrewelliott.com
@@ -28195,6 +28220,7 @@ www-cdn.icloud.com.akadns.net
 .www.ku8.tv
 .www.kuai500.com
 .www.kuaichuanmirror.com
+.www.kuam.com
 .www.kuckucktv.de
 .www.kuihua888.com
 .www.kuniao.com
@@ -28216,7 +28242,6 @@ www-cdn.icloud.com.akadns.net
 .www.larganmed.com.tw
 .www.lastss.com
 .www.lastweektonight.com
-.www.lavanyadeepak.tk
 .www.lavaone.com
 .www.lavavpn.com
 .www.lavozdigital.net
@@ -28236,7 +28261,6 @@ www-cdn.icloud.com.akadns.net
 .www.lenoircityschools.net
 .www.leonetienne.com
 .www.lestapackaging.co.uk
-.www.let77.net
 .www.let89.com
 .www.letou01.com
 .www.letou118.net
@@ -28307,8 +28331,10 @@ www-cdn.icloud.com.akadns.net
 .www.lpxtv.com
 .www.lrt.lt
 .www.lsecapital.com
+.www.lsj.xyz
 .www.lsj1080.com
 .www.lt132.com
+.www.lt499.com
 .www.ltou88.net
 .www.ltou959.com
 .www.lucasentertainment.com
@@ -28332,7 +28358,6 @@ www-cdn.icloud.com.akadns.net
 .www.maaii.com
 .www.macau-focus.com
 .www.macau-slot.com
-.www.macbookone.com
 .www.macdonaldlaurier.ca
 .www.macgn.com
 .www.macrophiliafan.com
@@ -28377,7 +28402,6 @@ www-cdn.icloud.com.akadns.net
 .www.megaupload.byethost7.com
 .www.megbook.com.hk
 .www.meihuavpn.com
-.www.meishijournal.com
 .www.meiyu7.com
 .www.melbournetibetan.com
 .www.melonstube.com
@@ -28528,7 +28552,6 @@ www-cdn.icloud.com.akadns.net
 .www.ndc.gov.tw
 .www.neihan8.com
 .www.nelnet.com
-.www.net-chuko.com
 .www.netignition.com
 .www.netpas.cc
 .www.neutrinosatemyhomework.com
@@ -28655,12 +28678,12 @@ www-cdn.icloud.com.akadns.net
 .www.oxdfx.com
 .www.p2p101.com
 .www.p333aa.com
-.www.p333pp.com
 .www.p88807.com
 .www.p888xx.com
 .www.pacific-times.com
 .www.palgrave.com
 .www.palpung.org
+.www.pampshare.com
 .www.pandavpn.pro
 .www.panorama.am
 .www.paoche.pw
@@ -28907,6 +28930,7 @@ www-cdn.icloud.com.akadns.net
 .www.rubenterlou.com
 .www.rubyfortune.com
 .www.rue89.com
+.www.ruleporn.com
 .www.runnerinn.com
 .www.runox.biz
 .www.runox.net
@@ -28948,7 +28972,6 @@ www-cdn.icloud.com.akadns.net
 .www.say-huahuo.com
 .www.sb
 .www.sbf322.com
-.www.sbf822.com
 .www.sbf827.com
 .www.scai88.com
 .www.scanbc.com
@@ -29027,6 +29050,7 @@ www-cdn.icloud.com.akadns.net
 .www.sinostand.com
 .www.sir.com.tw
 .www.sitemeter.com
+.www.siyushe.com
 .www.sk-tea.com
 .www.skhkeihin.edu.hk
 .www.skybet98.com
@@ -29074,7 +29098,6 @@ www-cdn.icloud.com.akadns.net
 .www.spin969.com
 .www.sportk8.com
 .www.sports998.net
-.www.spreadtruedharma.org
 .www.spreaker.com
 .www.spreely.com
 .www.spyoff.com
@@ -29495,7 +29518,6 @@ www-cdn.icloud.com.akadns.net
 .www.vw.idv.tw
 .www.vw088.com
 .www.vwin001.com
-.www.vwin002.com
 .www.vwin004.com
 .www.vwp123.com
 .www.vxpic.com
@@ -29504,6 +29526,7 @@ www-cdn.icloud.com.akadns.net
 .www.w5188yes.com
 .www.w555.com
 .www.w66896.com
+.www.w678678.com
 .www.w88108.com
 .www.w88988.com
 .www.w88ap.com
@@ -29694,7 +29717,7 @@ www-cdn.icloud.com.akadns.net
 .www.xyz1943.idv.tw
 .www.xzcblog.com
 .www.y-cymro.com
-.www.y66tt.com
+.www.y66v.com
 .www.y66zz.com
 .www.y68.com
 .www.y68009.com
@@ -29804,7 +29827,6 @@ www-cdn.icloud.com.akadns.net
 .www.zamzar.com
 .www.zaq.us
 .www.zccp40.com
-.www.zeldaboard.net
 .www.zeroak.com
 .www.zerocensorship.com
 .www.zetaboards.com
@@ -29916,6 +29938,7 @@ www-cdn.icloud.com.akadns.net
 .xam00.com
 .xam33999.com
 .xam34999.com
+.xam35999.com
 .xam39.com
 .xam39999.com
 .xam50999.com
@@ -30057,6 +30080,7 @@ www-cdn.icloud.com.akadns.net
 .xihua.es
 .xijinping.com
 .xila88.com
+.xinaomen.org
 .xinaomen2.com
 .xinbao.de
 .xindelu.com
@@ -30089,6 +30113,7 @@ www-cdn.icloud.com.akadns.net
 .xj.freepac.pw
 .xj071.com
 .xj3322.com
+.xj37777.com
 .xj5575.com
 .xj5859.com
 .xj6607.com
@@ -30957,6 +30982,7 @@ www-cdn.icloud.com.akadns.net
 .zillionk.com
 .zim.vn
 .zind.cloud
+.zindagi.ca
 .zinio.com
 .zionsoft.net
 .zipnadazilch.com
@@ -30994,7 +31020,6 @@ www-cdn.icloud.com.akadns.net
 .zoom.com
 .zoom.us
 .zoomingin.tv
-.zoomnow.tw
 .zoosex.cc
 .zooshock.com
 .zootool.com
