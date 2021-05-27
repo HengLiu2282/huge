@@ -1,10 +1,10 @@
 # NAME: GitHub
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-07 09:34:53
+# UPDATED: 2021-05-31 03:08:35
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 22
-# TOTAL: 23
+# DOMAIN-SUFFIX: 24
+# TOTAL: 25
 payload:
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
   - DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
@@ -20,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubusercontent.com
