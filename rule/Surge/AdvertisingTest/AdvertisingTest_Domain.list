@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-02 04:17:09
+# UPDATED: 2021-06-02 10:02:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 76648
+# DOMAIN-SUFFIX: 76677
 # DOMAIN: 14380
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 91670
+# TOTAL: 91699
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -16249,6 +16249,7 @@ zzz.clickbank.net
 .6519114.loyalty.almosafer.com
 .6519114.mktg.almosafer.com
 .651b4ee436b8cdae.com
+.652696.com
 .652748.com
 .6548579f50dc08be9.com
 .654fd964d63c0.com
@@ -18419,6 +18420,7 @@ zzz.clickbank.net
 .ad.abum.com
 .ad.accessmediaproductions.com
 .ad.accesstrade.vn
+.ad.aceplanet.co.kr
 .ad.adfunky.com
 .ad.adhouyi.cn
 .ad.adlantis.jp
@@ -18697,6 +18699,7 @@ zzz.clickbank.net
 .ad.period-calendar.com
 .ad.pgwticketshop.nl
 .ad.ph-prt.tbn.ru
+.ad.phaserep.com
 .ad.phunuxuavanay.vn
 .ad.pickple.net
 .ad.pitta.ne.jp
@@ -24898,6 +24901,7 @@ zzz.clickbank.net
 .api-analytics-cn.huami.com
 .api-analytics.huami.com
 .api-analytics.metaps.com
+.api-analytics.prod.birdapp.com
 .api-analytics.rozetka.com.ua
 .api-deal.kechenggezi.com
 .api-flow.flyme.cn
@@ -26493,6 +26497,7 @@ zzz.clickbank.net
 .azsin.ru
 .aztbeszelik.com
 .aztecash.com
+.aztool.org
 .aztracking.net
 .aztu.ynfolstw.xyz
 .aztwwe.satom.ru
@@ -27451,6 +27456,7 @@ zzz.clickbank.net
 .bd3.chuiyue.com
 .bd3.jobui.com
 .bd4.chuiyue.com
+.bd44.fun
 .bd4travel.com
 .bd888.qizuang.com
 .bda1.ayule.net
@@ -29261,6 +29267,7 @@ zzz.clickbank.net
 .bssdl.kugou.com
 .bssdlbig.kugou.com
 .bsshw.net
+.bst-offers.com
 .bstatic.1kejian.com
 .bstatic.diyifanwen.com
 .bstn-14-ma.com
@@ -29691,6 +29698,7 @@ zzz.clickbank.net
 .by.7avz.com
 .by.bollore-logistics.com
 .by.dm5.com
+.by.dyq.cn
 .by.tel.cdndm.com
 .by3301-a.1drv.com
 .by3301-c.1drv.com
@@ -35161,6 +35169,7 @@ zzz.clickbank.net
 .d9w.fl1c.com
 .da-ads.com
 .da.2000888.com
+.da.daji.com
 .da.hornbach.at
 .da.hornbach.ch
 .da.hornbach.cz
@@ -35607,6 +35616,7 @@ zzz.clickbank.net
 .daylskg.cn
 .daysaristocracy.com
 .daysurgentlybecau.info
+.daytrading.solutions
 .dazhantai.com
 .dazhonghua.cn
 .dazibenwm.com
@@ -41050,6 +41060,7 @@ zzz.clickbank.net
 .fethungi.com
 .feverhappyjack.com
 .fewmphbwt.com
+.fewrfie.com
 .fexclick.baidu.com
 .fexiaen.com
 .fexperies.info
@@ -41582,6 +41593,8 @@ zzz.clickbank.net
 .flxnftys.com
 .flxpxl.com
 .fly-analytics.com
+.fly.gentside.com
+.fly.ohmymag.com
 .flybhyis.com
 .flycast.com
 .flygame.io
@@ -47784,6 +47797,7 @@ zzz.clickbank.net
 .imgtrack.domainmarket.com
 .imgwebfeed.com
 .imgwzzmb.net
+.imgxb.top
 .imgxxx.shunxincar.cn
 .imhd.io
 .imhizxejm.com
@@ -49412,6 +49426,7 @@ zzz.clickbank.net
 .javbucks.com
 .javhd.com
 .jawholeminable.com
+.jawsfixture.com
 .jaxxenpro.com
 .jay.andycroll.com
 .jayhintcull.com
@@ -52705,6 +52720,7 @@ zzz.clickbank.net
 .limaten.info
 .limbloyal.com
 .limei.com
+.limelightcopper.com
 .limetreenearly.com
 .limitagesdidjet.site
 .limitaterer.club
@@ -52937,6 +52953,7 @@ zzz.clickbank.net
 .lionettrip.xyz
 .liongetme.com
 .lioningepit.fun
+.lionquerychord.com
 .lionsads.com
 .liosix.mtvuutiset.fi
 .liqgnl.weissgauff.ru
@@ -53034,6 +53051,7 @@ zzz.clickbank.net
 .livejasmin.com
 .livejasmin.tv
 .livelumber.com
+.livelylaugh.com
 .livelyoffers.club
 .liventernet.ml
 .livep.l.ott.video.qq.com
@@ -53325,6 +53343,8 @@ zzz.clickbank.net
 .log.apk.v-mate.mobi
 .log.appchina.com
 .log.artipbox.net
+.log.avlyun.com
+.log.avlyun.sec.intl.miui.com
 .log.b612kaji.com
 .log.baodatviet.vn
 .log.baodauthau.vn
@@ -60409,6 +60429,7 @@ zzz.clickbank.net
 .nnnwwwe.com
 .nnolljzcxzud.com
 .nnoxzo.rfskbylbsf.xyz
+.nnsbbd.com
 .nnsrak.lazurit.com
 .nntgna.dmm.com
 .nnu.re
@@ -63560,6 +63581,7 @@ zzz.clickbank.net
 .pbgrd.com
 .pbid.iforex.com
 .pbino.com
+.pbjs.sskzlabs.com
 .pbkhlczs.com
 .pbnet.ru
 .pbox.no.photobox.com
@@ -65570,6 +65592,7 @@ zzz.clickbank.net
 .prism.app-us1.com
 .prism.noordermeer.ch
 .prism.pandora.tv
+.prisma-tr.prismamedia.com
 .pritesol.com
 .privacy-api.9gag.com
 .privacy-center.org
@@ -71904,6 +71927,7 @@ zzz.clickbank.net
 .sharing-is-caring.info
 .shark.popdog.com
 .sharks.vn
+.sharonyean.com
 .sharpay.io
 .sharpconnatechamber.com
 .sharppatch.com
@@ -74025,6 +74049,7 @@ zzz.clickbank.net
 .smi.pp.ua
 .smi.today
 .smi2.ru
+.smi24.kz
 .smigid.ru
 .smigro.info
 .smiinform.zone
@@ -79061,6 +79086,7 @@ zzz.clickbank.net
 .thisisyourprize.site
 .thismetric.com
 .thispositionw.biz
+.thistracknet.com
 .thitegnu.net
 .thj.astrakhan.ru
 .thkexopsciqums.com
@@ -81295,6 +81321,7 @@ zzz.clickbank.net
 .tradetracker.net
 .tradineseveni.club
 .trading-rtbg.com
+.tradplusad.com
 .traf-3rs.com
 .traf-zona.ru
 .traf2me.ru
@@ -86884,6 +86911,7 @@ zzz.clickbank.net
 .www-777563.com
 .www-banner.chat.ru
 .www-google-analytics.l.google.com
+.www-orbit-promo.ru
 .www-path.com
 .www-protection.com
 .www-sina-cn-com.com
@@ -88601,6 +88629,7 @@ zzz.clickbank.net
 .xr-tds.com
 .xr.h4ck.la
 .xr.shinobi.jp
+.xr117.xyz
 .xr8wv50k1daj.com
 .xrain.net
 .xray.mail.ru
