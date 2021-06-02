@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-02 10:02:48
+# UPDATED: 2021-06-03 04:14:57
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 76677
-# DOMAIN: 14380
+# DOMAIN-SUFFIX: 76673
+# DOMAIN: 14375
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 91397
+# TOTAL: 91388
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -134,6 +134,7 @@ payload:
   - DOMAIN,24tradeplus.com
   - DOMAIN,24x7mediaworks.com
   - DOMAIN,274a717d311ac90f.com
+  - DOMAIN,27simn888.com
   - DOMAIN,28.securefinds2.com
   - DOMAIN,290684.en.world-stone.com
   - DOMAIN,2amsports.com
@@ -309,7 +310,6 @@ payload:
   - DOMAIN,803.stats.misstrends.com
   - DOMAIN,81182479.com
   - DOMAIN,833wellsell.com
-  - DOMAIN,85102152.com
   - DOMAIN,86240336d5604d7.com
   - DOMAIN,86402d8a7f2aa0.com
   - DOMAIN,879.stats.misstrends.com
@@ -1215,6 +1215,7 @@ payload:
   - DOMAIN,all.technologyoptical.com
   - DOMAIN,allaboutsearching.com
   - DOMAIN,alladvantage.com
+  - DOMAIN,allanimehentai.com
   - DOMAIN,allboys.buckshost.com
   - DOMAIN,allcandl.org
   - DOMAIN,allcitiesoverheadoor.com
@@ -1234,7 +1235,6 @@ payload:
   - DOMAIN,allgamesdownload.org
   - DOMAIN,allgengamingservers.com
   - DOMAIN,allgethack.com
-  - DOMAIN,allhack4u.com
   - DOMAIN,allhackarena.com
   - DOMAIN,allhacks2games.com
   - DOMAIN,allhackz.net
@@ -1792,7 +1792,6 @@ payload:
   - DOMAIN,attritionlarder.com
   - DOMAIN,attyimmigration.com
   - DOMAIN,aturkantorku.com
-  - DOMAIN,atxappliancerepair.com
   - DOMAIN,auamesummit.com
   - DOMAIN,auctionbowling.com
   - DOMAIN,auctiondirectory.org
@@ -2565,6 +2564,8 @@ payload:
   - DOMAIN,buyu9984.com
   - DOMAIN,buyu9986.com
   - DOMAIN,buyu9988.com
+  - DOMAIN,buyu9993.com
+  - DOMAIN,buyu9998.com
   - DOMAIN,buyu9999.com
   - DOMAIN,buz2mobile.com
   - DOMAIN,buzina.xyz
@@ -3582,7 +3583,6 @@ payload:
   - DOMAIN,csgo-star.com
   - DOMAIN,csgoaimbot.com
   - DOMAIN,csgoboom.net
-  - DOMAIN,csgodrugs.com
   - DOMAIN,csgofastrade.com
   - DOMAIN,csgofortunes.com
   - DOMAIN,csgohall.com
@@ -6078,7 +6078,6 @@ payload:
   - DOMAIN,gyroscopereview.com
   - DOMAIN,gztianfu.net
   - DOMAIN,gzxhshipping.com
-  - DOMAIN,h-adachi.org
   - DOMAIN,h.hello-game.cn
   - DOMAIN,h.hollywood.com
   - DOMAIN,h01.hxsame.hexun.com
@@ -7675,7 +7674,6 @@ payload:
   - DOMAIN,leetskins.com
   - DOMAIN,leewelton.com
   - DOMAIN,legacyet.com
-  - DOMAIN,legallygetfree.com
   - DOMAIN,legend.ac.cn
   - DOMAIN,legendarycheats.com
   - DOMAIN,legendofdragoon.com
@@ -8305,7 +8303,6 @@ payload:
   - DOMAIN,megaplayz.com
   - DOMAIN,megapolis-hack.com
   - DOMAIN,megapolis.newzgames.com
-  - DOMAIN,megazakupy.net
   - DOMAIN,meghalomania.com
   - DOMAIN,mehmetefliymm.com
   - DOMAIN,mehrajhric.com
@@ -9014,7 +9011,6 @@ payload:
   - DOMAIN,newhomecfl.com
   - DOMAIN,newlimitedoffer.com
   - DOMAIN,newmediaz.com
-  - DOMAIN,newmoviesdownload.net
   - DOMAIN,newpassporn.com
   - DOMAIN,newpctv4u.com
   - DOMAIN,newrivoc.com
@@ -9612,7 +9608,6 @@ payload:
   - DOMAIN,payusatax.com
   - DOMAIN,pb-assets.tedcdn.com
   - DOMAIN,pbg2cs01.doteasy.com
-  - DOMAIN,pc-pointers.com
   - DOMAIN,pc.sborscweuu.cn
   - DOMAIN,pc1restore.com
   - DOMAIN,pcc.pkcdns2.com
@@ -9845,7 +9840,6 @@ payload:
   - DOMAIN,playstation3emulator.net
   - DOMAIN,playstationgiftcards.com
   - DOMAIN,playstationnetworkcard.com
-  - DOMAIN,playtoolz.com
   - DOMAIN,pleasantlychaotic.com
   - DOMAIN,plengeh.wen.ru
   - DOMAIN,plethoramobile.com
@@ -10520,6 +10514,7 @@ payload:
   - DOMAIN,rewardprogram.allalla.com
   - DOMAIN,rewardszoneusa.com
   - DOMAIN,rexportintl.com
+  - DOMAIN,reycross.cn
   - DOMAIN,rforreview.com
   - DOMAIN,rg3solutions.com
   - DOMAIN,rgahmllbgubakm.com
@@ -14010,6 +14005,7 @@ payload:
   - DOMAIN,xhqsysp.com
   - DOMAIN,xhvhisywkvha.com
   - DOMAIN,xiamenoa.com
+  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xianyicao.net
   - DOMAIN,xiaocen.com
   - DOMAIN,xiaojinqipai.com
@@ -14264,7 +14260,6 @@ payload:
   - DOMAIN,yyjgift.com
   - DOMAIN,yyoutube.com
   - DOMAIN,yyy.pp1500.com
-  - DOMAIN,yzunited.com
   - DOMAIN,z-na.amazon-adsystems.com
   - DOMAIN,z.dwchaha.com
   - DOMAIN,z33y.notifychheck.com
@@ -14877,7 +14872,6 @@ payload:
   - DOMAIN-SUFFIX,14nuzznszbdp.com
   - DOMAIN-SUFFIX,14vq.cn
   - DOMAIN-SUFFIX,1503.net
-  - DOMAIN-SUFFIX,150601.fc2rs.com
   - DOMAIN-SUFFIX,1515788.net
   - DOMAIN-SUFFIX,152media.com
   - DOMAIN-SUFFIX,153105c2f9564.com
@@ -15477,8 +15471,6 @@ payload:
   - DOMAIN-SUFFIX,33.pcpop.com
   - DOMAIN-SUFFIX,330ca589.space
   - DOMAIN-SUFFIX,3324.cn
-  - DOMAIN-SUFFIX,3332899.com
-  - DOMAIN-SUFFIX,3336637.com
   - DOMAIN-SUFFIX,3336639.com
   - DOMAIN-SUFFIX,3336653.com
   - DOMAIN-SUFFIX,3336657.com
@@ -32976,6 +32968,7 @@ payload:
   - DOMAIN-SUFFIX,config.appsgeyser.com
   - DOMAIN-SUFFIX,config.baofeng.net
   - DOMAIN-SUFFIX,config.getmyip.com
+  - DOMAIN-SUFFIX,config.gorgias.chat
   - DOMAIN-SUFFIX,config.mobilegamestats.com
   - DOMAIN-SUFFIX,config.push.sogou.com
   - DOMAIN-SUFFIX,config.quantumgraph.com
@@ -58890,7 +58883,6 @@ payload:
   - DOMAIN-SUFFIX,muvflix.com
   - DOMAIN-SUFFIX,muvimtim.com
   - DOMAIN-SUFFIX,muwmedia.com
-  - DOMAIN-SUFFIX,muxingkj.com
   - DOMAIN-SUFFIX,muyoozrkkyr.com
   - DOMAIN-SUFFIX,muyviajero.com
   - DOMAIN-SUFFIX,muzhskoy.xyz
@@ -59454,6 +59446,7 @@ payload:
   - DOMAIN-SUFFIX,navigator.io
   - DOMAIN-SUFFIX,navilytics.com
   - DOMAIN-SUFFIX,navrcholu.cz
+  - DOMAIN-SUFFIX,navse.pukchpok.online
   - DOMAIN-SUFFIX,nawpush.com
   - DOMAIN-SUFFIX,naxnet.or.jp
   - DOMAIN-SUFFIX,naxrjxij.com
@@ -79301,7 +79294,6 @@ payload:
   - DOMAIN-SUFFIX,tinyads.io
   - DOMAIN-SUFFIX,tinyap2.cn
   - DOMAIN-SUFFIX,tinybar.com
-  - DOMAIN-SUFFIX,tinychinacdnweb.qiniu.com.w.kunlunno.com
   - DOMAIN-SUFFIX,tinyclues.com
   - DOMAIN-SUFFIX,tinycounter.com
   - DOMAIN-SUFFIX,tinypap.cn
@@ -89194,7 +89186,6 @@ payload:
   - DOMAIN-SUFFIX,yexfes.com
   - DOMAIN-SUFFIX,yext-pixel.com
   - DOMAIN-SUFFIX,yeyajipp.com
-  - DOMAIN-SUFFIX,yeyemo4.com
   - DOMAIN-SUFFIX,yeyushe.cn
   - DOMAIN-SUFFIX,yezijizhang.com
   - DOMAIN-SUFFIX,yezilm.com

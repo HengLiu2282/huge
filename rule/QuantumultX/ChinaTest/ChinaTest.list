@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-02 04:17:09
-# HOST-SUFFIX: 69722
+# UPDATED: 2021-06-03 04:14:56
+# HOST-SUFFIX: 69721
 # USER-AGENT: 32
 # HOST: 78
 # IP-CIDR: 57
 # HOST-KEYWORD: 10
 # IP6-CIDR: 4
-# TOTAL: 69903
+# TOTAL: 69902
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -451,7 +451,6 @@ HOST-SUFFIX,041234b.com,ChinaTest
 HOST-SUFFIX,04168.com,ChinaTest
 HOST-SUFFIX,0416u.com,ChinaTest
 HOST-SUFFIX,0417gou.com,ChinaTest
-HOST-SUFFIX,0418fc.com,ChinaTest
 HOST-SUFFIX,0421wcbzk.com,ChinaTest
 HOST-SUFFIX,0427.com,ChinaTest
 HOST-SUFFIX,0430.com,ChinaTest
@@ -9594,6 +9593,7 @@ HOST-SUFFIX,angli.me,ChinaTest
 HOST-SUFFIX,anglo-chinese.com,ChinaTest
 HOST-SUFFIX,angroups.com,ChinaTest
 HOST-SUFFIX,angruo.com,ChinaTest
+HOST-SUFFIX,angrymiao.com,ChinaTest
 HOST-SUFFIX,anguanjia.com,ChinaTest
 HOST-SUFFIX,angui.org,ChinaTest
 HOST-SUFFIX,angwei.net,ChinaTest
@@ -52347,7 +52347,6 @@ HOST-SUFFIX,sohochina.com,ChinaTest
 HOST-SUFFIX,sohocute.com,ChinaTest
 HOST-SUFFIX,sohonow.com,ChinaTest
 HOST-SUFFIX,sohotask.com,ChinaTest
-HOST-SUFFIX,sohovark.com,ChinaTest
 HOST-SUFFIX,sohu,ChinaTest
 HOST-SUFFIX,sohu-inc.com,ChinaTest
 HOST-SUFFIX,sohu.com,ChinaTest

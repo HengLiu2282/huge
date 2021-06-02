@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-02 10:02:46
+# UPDATED: 2021-06-03 04:14:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 76677
-# DOMAIN: 14380
+# DOMAIN-SUFFIX: 76673
+# DOMAIN: 14375
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 91699
+# TOTAL: 91690
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -135,6 +135,7 @@
 24tradeplus.com
 24x7mediaworks.com
 274a717d311ac90f.com
+27simn888.com
 28.securefinds2.com
 290684.en.world-stone.com
 2amsports.com
@@ -310,7 +311,6 @@
 803.stats.misstrends.com
 81182479.com
 833wellsell.com
-85102152.com
 86240336d5604d7.com
 86402d8a7f2aa0.com
 879.stats.misstrends.com
@@ -1216,6 +1216,7 @@ all.alisatilsner.com
 all.technologyoptical.com
 allaboutsearching.com
 alladvantage.com
+allanimehentai.com
 allboys.buckshost.com
 allcandl.org
 allcitiesoverheadoor.com
@@ -1235,7 +1236,6 @@ allgamehacks.org
 allgamesdownload.org
 allgengamingservers.com
 allgethack.com
-allhack4u.com
 allhackarena.com
 allhacks2games.com
 allhackz.net
@@ -1793,7 +1793,6 @@ attorneyisnearme.com
 attritionlarder.com
 attyimmigration.com
 aturkantorku.com
-atxappliancerepair.com
 auamesummit.com
 auctionbowling.com
 auctiondirectory.org
@@ -2566,6 +2565,8 @@ buyu9983.com
 buyu9984.com
 buyu9986.com
 buyu9988.com
+buyu9993.com
+buyu9998.com
 buyu9999.com
 buz2mobile.com
 buzina.xyz
@@ -3583,7 +3584,6 @@ csgo-hacks.com
 csgo-star.com
 csgoaimbot.com
 csgoboom.net
-csgodrugs.com
 csgofastrade.com
 csgofortunes.com
 csgohall.com
@@ -6079,7 +6079,6 @@ gxprocord.com
 gyroscopereview.com
 gztianfu.net
 gzxhshipping.com
-h-adachi.org
 h.hello-game.cn
 h.hollywood.com
 h01.hxsame.hexun.com
@@ -7676,7 +7675,6 @@ leethax.net
 leetskins.com
 leewelton.com
 legacyet.com
-legallygetfree.com
 legend.ac.cn
 legendarycheats.com
 legendofdragoon.com
@@ -8306,7 +8304,6 @@ meganiusy.com
 megaplayz.com
 megapolis-hack.com
 megapolis.newzgames.com
-megazakupy.net
 meghalomania.com
 mehmetefliymm.com
 mehrajhric.com
@@ -9015,7 +9012,6 @@ newhacks24.net
 newhomecfl.com
 newlimitedoffer.com
 newmediaz.com
-newmoviesdownload.net
 newpassporn.com
 newpctv4u.com
 newrivoc.com
@@ -9613,7 +9609,6 @@ paytmofferlive.wpengine.com
 payusatax.com
 pb-assets.tedcdn.com
 pbg2cs01.doteasy.com
-pc-pointers.com
 pc.sborscweuu.cn
 pc1restore.com
 pcc.pkcdns2.com
@@ -9846,7 +9841,6 @@ playstation3emulator.com
 playstation3emulator.net
 playstationgiftcards.com
 playstationnetworkcard.com
-playtoolz.com
 pleasantlychaotic.com
 plengeh.wen.ru
 plethoramobile.com
@@ -10521,6 +10515,7 @@ revivestore.com
 rewardprogram.allalla.com
 rewardszoneusa.com
 rexportintl.com
+reycross.cn
 rforreview.com
 rg3solutions.com
 rgahmllbgubakm.com
@@ -14011,6 +14006,7 @@ xhamstertube.com
 xhqsysp.com
 xhvhisywkvha.com
 xiamenoa.com
+xiamiss.wap.xsbiquge.com
 xianyicao.net
 xiaocen.com
 xiaojinqipai.com
@@ -14265,7 +14261,6 @@ yxshengda.com
 yyjgift.com
 yyoutube.com
 yyy.pp1500.com
-yzunited.com
 z-na.amazon-adsystems.com
 z.dwchaha.com
 z33y.notifychheck.com
@@ -14878,7 +14873,6 @@ zzz.clickbank.net
 .14nuzznszbdp.com
 .14vq.cn
 .1503.net
-.150601.fc2rs.com
 .1515788.net
 .152media.com
 .153105c2f9564.com
@@ -15478,8 +15472,6 @@ zzz.clickbank.net
 .33.pcpop.com
 .330ca589.space
 .3324.cn
-.3332899.com
-.3336637.com
 .3336639.com
 .3336653.com
 .3336657.com
@@ -32977,6 +32969,7 @@ zzz.clickbank.net
 .config.appsgeyser.com
 .config.baofeng.net
 .config.getmyip.com
+.config.gorgias.chat
 .config.mobilegamestats.com
 .config.push.sogou.com
 .config.quantumgraph.com
@@ -58891,7 +58884,6 @@ zzz.clickbank.net
 .muvflix.com
 .muvimtim.com
 .muwmedia.com
-.muxingkj.com
 .muyoozrkkyr.com
 .muyviajero.com
 .muzhskoy.xyz
@@ -59455,6 +59447,7 @@ zzz.clickbank.net
 .navigator.io
 .navilytics.com
 .navrcholu.cz
+.navse.pukchpok.online
 .nawpush.com
 .naxnet.or.jp
 .naxrjxij.com
@@ -79302,7 +79295,6 @@ zzz.clickbank.net
 .tinyads.io
 .tinyap2.cn
 .tinybar.com
-.tinychinacdnweb.qiniu.com.w.kunlunno.com
 .tinyclues.com
 .tinycounter.com
 .tinypap.cn
@@ -89195,7 +89187,6 @@ zzz.clickbank.net
 .yexfes.com
 .yext-pixel.com
 .yeyajipp.com
-.yeyemo4.com
 .yeyushe.cn
 .yezijizhang.com
 .yezilm.com

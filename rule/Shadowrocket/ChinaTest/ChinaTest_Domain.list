@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-02 04:17:11
-# DOMAIN-SUFFIX: 69722
+# UPDATED: 2021-06-03 04:14:58
+# DOMAIN-SUFFIX: 69721
 # USER-AGENT: 32
 # DOMAIN: 78
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69903
+# TOTAL: 69902
 265.com
 2mdn.net
 adservice.google.com
@@ -451,7 +451,6 @@ www4-static.gog-statics.com
 .04168.com
 .0416u.com
 .0417gou.com
-.0418fc.com
 .0421wcbzk.com
 .0427.com
 .0430.com
@@ -9594,6 +9593,7 @@ www4-static.gog-statics.com
 .anglo-chinese.com
 .angroups.com
 .angruo.com
+.angrymiao.com
 .anguanjia.com
 .angui.org
 .angwei.net
@@ -52347,7 +52347,6 @@ www4-static.gog-statics.com
 .sohocute.com
 .sohonow.com
 .sohotask.com
-.sohovark.com
 .sohu
 .sohu-inc.com
 .sohu.com
