@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-03 04:14:58
+# UPDATED: 2021-06-04 03:40:30
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 76673
-# DOMAIN: 14375
+# DOMAIN-SUFFIX: 76690
+# DOMAIN: 14363
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 91690
+# TOTAL: 91695
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1774,6 +1774,7 @@ atcofiles.com
 atendim248.sslblindado.com
 atendimen-online5.uni5.net
 aterroppop.com
+atexchemico.com
 athenscollisionctr.com
 atianqi.com
 atkitchenware.com
@@ -3253,7 +3254,6 @@ codepsngratuitps3.com
 coderstate.com
 codes-keys.com
 codes4free.net
-codes4psn.com
 codesandgenerators.com
 codesforfree.net
 codeskype.betack.com
@@ -3817,7 +3817,6 @@ de.act-on.com
 de.forums.vivogames.com
 de.unbounce.com
 deal.maabm.com
-dealermobilhondajakarta.com
 dealertoyotabaru.com
 deals.bullguard.com
 dealspicks.com
@@ -4005,7 +4004,6 @@ divine.lunarbreeze.com
 divinedeals.net
 divinegenerator.com
 divisioncore.com
-divyanshunayak.com
 diwangjt.com
 dixons.inq.com
 dizixdllzznrf.cloudfront.net
@@ -4236,7 +4234,6 @@ drealvog.ddns.net
 dream-file.com
 dream1well.com
 dreambigprintbig.com
-dreamdesignworkshop.com
 dreamhackz.com
 dreduardotapiadapelo.com
 drelshazly.com
@@ -7037,6 +7034,7 @@ iuefgauiaiduihgs.com
 iupload4you.com
 ivalue-s.com
 ivox.socratos.net
+ivypixel.com
 iws.corel.com
 iybasketball.info
 iyitakipci.com
@@ -7697,7 +7695,6 @@ lentemaniapty.com
 leohd59.ru
 leomphotography.com
 leonarderickson.chez.com
-leosandler.com
 lepirateportail.net
 leroidumatelas.gb.net
 lescanoyquiroz.com
@@ -7763,7 +7760,6 @@ likefreehack.com
 likelbs.dinoyy.xyz
 likeventy.com
 lilian.redirectme.net
-lily-ksa.com
 lilyjewellers.com
 limasierraranch.com
 limbik.io
@@ -8745,7 +8741,6 @@ my3account.com
 my83s1kw3u.com
 myadultagent.com
 myaetherwalet.com
-myaetherwallet.com
 myaloevera.com
 myamateurvideos.com
 myamzgiftcards.com
@@ -9754,7 +9749,6 @@ pingdom.act-on.com
 pinggai5.caixin.com
 pinuppopup.com
 pipermuseum.com
-piranhacheats.com
 piratagefacebook.com
 pirater-compte.com
 piratercomptefb.com
@@ -10345,7 +10339,6 @@ rcads.net
 rckpwmhqz.com
 rcm.amazon.com
 rcscaxhjmm.com
-rcumwyqkv.com
 rcv.ixd.dmm.com
 rd-direct.com
 rdl.sourcesite360.com
@@ -10744,7 +10737,6 @@ safra.moduloativo.com
 saganamu.com
 sagebiotech.com
 sahabatbaliholidays.com
-sahafci.com
 saharatif.com
 sahithiacademy.com
 saicollinsmusic.com
@@ -10926,7 +10918,6 @@ secondome.com
 secretarea.net
 secrethotgames.com
 secretosarevelar.com
-secure-intlpaypal.com
 secure-processingcenter.com
 secure-runescape.com
 secure.airsoftcanada.com
@@ -12051,7 +12042,6 @@ synd.cricbuzz.com
 syndication.site.yahoo.net
 synergyworldwide.com
 syntechsys.com
-synthetics4semis.com
 syshainc.com
 systemrazors.com
 systemtransfers.com
@@ -12446,7 +12436,6 @@ timothycopus.aimoo.com
 timothyfiore.com
 tinaborg.com
 tinap7.000webhostapp.com
-tingtuba.com
 tinhquadem11.byethost9.com
 tintubright.com
 tinyfilehost.com
@@ -13651,6 +13640,7 @@ wpvvusso.xyz
 wrapper.fileplanet.com
 wrapper.ign.com
 wrestlingexposed.com
+wrigleyville23.com
 writanwords.com
 writeabout.unbounce.com
 writefor.unbounce.com
@@ -14072,11 +14062,9 @@ xn--inance-hrb.com
 xn--mercadobtcon-zfbd.com
 xn--metherwallet-qlb.com
 xn--minecrft-5za.com
-xn--myeterwallet-f1b.com
 xn--myetherwalet-lcc.com
 xn--myetherwallt-cfb.com
 xn--myetherwallt-leb.com
-xn--myetherwllet-jbb.com
 xn--myethrwallet-5eb.com
 xn--mytherwallet-2eb.com
 xn--mytherwallet-ceb.com
@@ -16751,6 +16739,7 @@ zzz.clickbank.net
 .888b.in
 .888casino.com
 .888games.com
+.888lianmeng.com
 .888media.net
 .888poker.com
 .888promos.com
@@ -17127,6 +17116,7 @@ zzz.clickbank.net
 .a.0e4b0abb1f69821da471689f323e049b.com
 .a.198banjia.com
 .a.20minutes.fr
+.a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 .a.4aqq.com
 .a.52wubi.com
 .a.52zxw.com
@@ -23915,6 +23905,7 @@ zzz.clickbank.net
 .amateur-mature-sex.adaltabaza.net
 .amateurcouplewebcam.com
 .amateurporn.net
+.amatrck.com
 .amaumomt.com
 .amavalet.com
 .amavirgin.pro
@@ -24588,6 +24579,7 @@ zzz.clickbank.net
 .ancesethod.top
 .ancestorcomposition.com
 .ancheonyo.fun
+.ancienslogoi.com
 .ancientact.com
 .ancjmfycf.com
 .and-ads.pulse.weatherbug.net
@@ -25576,6 +25568,7 @@ zzz.clickbank.net
 .areasons.club
 .areasonsimon.club
 .arecio.work
+.arecunamacaw.com
 .arefusedfollo.club
 .arejoysew.com
 .arena-quantum.co.uk
@@ -26586,6 +26579,7 @@ zzz.clickbank.net
 .b1.baomihua.com
 .b1.c1km4.com
 .b1.fengdu100.com
+.b1.qqjay.com
 .b1.xiao84.com
 .b13.penzainform.ru
 .b13481647cf775c5.com
@@ -30585,7 +30579,6 @@ zzz.clickbank.net
 .cdn-analytics.ladmedia.fr
 .cdn-analytics.pl
 .cdn-assets.prfct.cc
-.cdn-b.notsy.io
 .cdn-bongdadem-net.cdn.ampproject.org
 .cdn-box.com
 .cdn-cf-hc-banners.hgonline.net
@@ -30728,7 +30721,6 @@ zzz.clickbank.net
 .cdn.movieads.ru
 .cdn.ndapp.com
 .cdn.net.elogia.net
-.cdn.notsy.io
 .cdn.nsimg.net
 .cdn.offcloud.com
 .cdn.onescreen.net
@@ -33073,6 +33065,7 @@ zzz.clickbank.net
 .consentedconscientious.com
 .consentedimpunity.com
 .consentframework.com
+.consentmanager.firststars.io
 .conservesoy.com
 .consesculifin.site
 .considedefinit.fun
@@ -40005,6 +39998,8 @@ zzz.clickbank.net
 .eventos.lp.deloittecomunicacao.com.br
 .events-api.outfit7.net
 .events-collector.spot.im
+.events-eu.freshsuccess.com
+.events-us.freshsuccess.com
 .events.air.tv
 .events.api.godaddy.com
 .events.artirix.com
@@ -42125,7 +42120,6 @@ zzz.clickbank.net
 .freshnews.su
 .freshplum.com
 .freshrefresher.com
-.freshworks.com
 .frestacero.com
 .frestime.com
 .fretfulfurniture.com
@@ -43521,6 +43515,7 @@ zzz.clickbank.net
 .ghhioew.pro
 .ghhmfq.vodovoz.ru
 .ghimc.vn
+.ghjnpy.com
 .ghkihfwfxb.com
 .ghnmg.top
 .gho.ysbjgjwh.com
@@ -59351,6 +59346,7 @@ zzz.clickbank.net
 .nankuan.xin
 .nanoadexchange.com
 .nanofantiki.edigest.ru
+.nanofine.cn
 .nanostats.nanopress.it
 .nanovisor.io
 .nanuyalailai.com
@@ -60601,7 +60597,6 @@ zzz.clickbank.net
 .notifysrv.com
 .notifyvisitors.com
 .notionnalisent.xyz
-.notix.io
 .notmining.org
 .notoboo.net
 .notorietycheerypositively.com
@@ -68238,6 +68233,7 @@ zzz.clickbank.net
 .reindaks.com
 .reindeer.cablemod.com
 .reinformaln.top
+.reingod.com
 .reinspersian.com
 .reinvigorate.net
 .reiqwxxd.com
@@ -72499,6 +72495,7 @@ zzz.clickbank.net
 .sivide.cn
 .siwtbongdxve.com
 .sixautch.com
+.sixft-apart.com
 .sixgen.cn
 .sixinpic.ksapisrv.com
 .sixloamsob.com
@@ -74371,6 +74368,7 @@ zzz.clickbank.net
 .soilenthusiasmshindig.com
 .sojern.com
 .sokitosa.com
+.sokmil-ad.com
 .sokminden.info
 .soknm.com
 .soko.ai
@@ -77545,6 +77543,7 @@ zzz.clickbank.net
 .sycbmucgctvha.com
 .sycnzz.17tanwan.com
 .sydcxk.epipla1.gr
+.sydswxx.com
 .syfbyg.com
 .sygame.695157.com
 .sygic-api.infinario.com
@@ -79055,6 +79054,7 @@ zzz.clickbank.net
 .thinkablefloor.com
 .thinkablerice.com
 .thinkabletrick.com
+.thinkaction.com
 .thinknear-hosted.thinknearhub.com
 .thinktarget.com
 .thinktot.com
@@ -83476,6 +83476,7 @@ zzz.clickbank.net
 .uvokouvtrr.com
 .uvosubgxhws.com
 .uvpnpz.misterspex.ch
+.uvpzll.com
 .uvqvvh.avva.com.tr
 .uvscqwzysqm.com
 .uvsea.cn
@@ -85822,6 +85823,7 @@ zzz.clickbank.net
 .westerdayeu.site
 .westerntelegraph-gb.westerntelegraph.co.uk
 .westwarese.club
+.wetips.cn
 .wetpeachcash.com
 .wetr.sportscheck.at
 .wetr.sportscheck.com
@@ -88413,6 +88415,7 @@ zzz.clickbank.net
 .xmcmn.com
 .xmcs99885.cn
 .xmcs99886.cn
+.xmcs99888.cn
 .xmcxz.com
 .xmdwlpwvzt.com
 .xmegspwsjzvvh.com
@@ -89736,6 +89739,7 @@ zzz.clickbank.net
 .yqeuu.com
 .yqezqofkb1nnmz.com
 .yqg0rv8p35.ru
+.yqgjq.com
 .yqhlty.com
 .yqjxzw.com
 .yqkpt.com
@@ -89829,6 +89833,7 @@ zzz.clickbank.net
 .yu0123456.com
 .yu520o.top
 .yu987.com
+.yuailairuci.com
 .yuanchengxiezuo.com
 .yuandongoffice.com
 .yuanhangpiju.cn
