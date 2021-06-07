@@ -1,7 +1,7 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-07 02:52:04
+# UPDATED: 2021-06-08 03:37:29
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47414
 # DOMAIN: 20782
@@ -243,6 +243,7 @@ payload:
   - DOMAIN,33universal.adprimemedia.com
   - DOMAIN,33video.33universal.com
   - DOMAIN,360.unbounce.com
+  - DOMAIN,360366.net
   - DOMAIN,3604free.com
   - DOMAIN,360adshost.com
   - DOMAIN,360adshost.net
@@ -378,6 +379,7 @@ payload:
   - DOMAIN,680.stats.misstrends.com
   - DOMAIN,690179b5160e450.com
   - DOMAIN,699.stats.misstrends.com
+  - DOMAIN,69boysex.com
   - DOMAIN,69content.com
   - DOMAIN,6a0a6105bc7a9fa8e.com
   - DOMAIN,6amateure.net
@@ -1157,7 +1159,6 @@ payload:
   - DOMAIN,adblockotsosal.ru
   - DOMAIN,adbot.theonion.com
   - DOMAIN,adbox.inbox-online.com
-  - DOMAIN,adbrau.com
   - DOMAIN,adbreak.cubecdn.net
   - DOMAIN,adbsc.krmobi.com
   - DOMAIN,adbunker.com
@@ -2382,7 +2383,6 @@ payload:
   - DOMAIN,aefonline.actonsoftware.com
   - DOMAIN,aegis.secure-orders.net
   - DOMAIN,aeimqu.yhqjqc.cn
-  - DOMAIN,aeriagenerator.com
   - DOMAIN,aerodizain.com
   - DOMAIN,aerontre.com
   - DOMAIN,aerreravasi.com
@@ -3234,7 +3234,6 @@ payload:
   - DOMAIN,appsfire.net
   - DOMAIN,appsgamecheats.com
   - DOMAIN,appsnack.com
-  - DOMAIN,appsrv1.madserving.cn
   - DOMAIN,apptracker.spilgames.com
   - DOMAIN,apptrackit.com
   - DOMAIN,appvirality.com
@@ -4029,6 +4028,7 @@ payload:
   - DOMAIN,bigmagbag.com
   - DOMAIN,bigpenisguide.com
   - DOMAIN,bigqueerarchive.com
+  - DOMAIN,bigsharkmedia.com
   - DOMAIN,bigtopstats.cn
   - DOMAIN,bigtruckstopseek.cn
   - DOMAIN,bigyapan.hamropatro.com
@@ -4643,7 +4643,6 @@ payload:
   - DOMAIN,calculatingcircle.com
   - DOMAIN,calculatingtoothbrush.com
   - DOMAIN,calculatorcamera.com
-  - DOMAIN,calhacks.org
   - DOMAIN,calhasmaringa.com
   - DOMAIN,calicutmis.com
   - DOMAIN,californiaroaddream.com
@@ -5676,6 +5675,7 @@ payload:
   - DOMAIN,coc.validcheats.com
   - DOMAIN,cocfreegems.net
   - DOMAIN,cocgemtool.com
+  - DOMAIN,cochacks.com
   - DOMAIN,cochinconsulting.com
   - DOMAIN,codblackops2hacks.net
   - DOMAIN,code-gratuit.org
@@ -7105,7 +7105,6 @@ payload:
   - DOMAIN,duct5ntjian71.cloudfront.net
   - DOMAIN,dufatanye.org
   - DOMAIN,dufue2m4sondk.cloudfront.net
-  - DOMAIN,duggiads.com
   - DOMAIN,dugoutreport.com
   - DOMAIN,duinearme.com
   - DOMAIN,dumbduck.com
@@ -7173,6 +7172,8 @@ payload:
   - DOMAIN,e-naturessunshine.com
   - DOMAIN,e-taekwang.com
   - DOMAIN,e-telecharger.com
+  - DOMAIN,e.2l06k.cn
+  - DOMAIN,e.967nd.cn
   - DOMAIN,e.a.mobimagic.com
   - DOMAIN,e.ejiakm.net
   - DOMAIN,e.freewebhostingarea.com
@@ -8969,7 +8970,6 @@ payload:
   - DOMAIN,gkyropoulos.com
   - DOMAIN,gladdanahu.com
   - DOMAIN,glamurka.net
-  - DOMAIN,glascowhs.com
   - DOMAIN,glassinside.net
   - DOMAIN,glean.pop6.com
   - DOMAIN,gleechood.com
@@ -9359,6 +9359,7 @@ payload:
   - DOMAIN,gyroscopereview.com
   - DOMAIN,gztianfu.net
   - DOMAIN,gzxhshipping.com
+  - DOMAIN,h-adachi.org
   - DOMAIN,h-adashx4ae.ut.taobao.com
   - DOMAIN,h.hello-game.cn
   - DOMAIN,h.hollywood.com
@@ -10601,7 +10602,6 @@ payload:
   - DOMAIN,j.neemzksw.com
   - DOMAIN,j.qtjthk.com
   - DOMAIN,j0c5je5flc.bbpsldh.org
-  - DOMAIN,j1ti2.5255235.com
   - DOMAIN,j6hek.voluumtrk3.com
   - DOMAIN,j77777777.com
   - DOMAIN,j8inn1zektoe.com
@@ -11805,8 +11805,10 @@ payload:
   - DOMAIN,lzrikate.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.2l06k.cn
   - DOMAIN,m.88viet.com
   - DOMAIN,m.8live.com
+  - DOMAIN,m.967nd.cn
   - DOMAIN,m.amtmobi.com
   - DOMAIN,m.aty.sohu.com
   - DOMAIN,m.bong99.com
@@ -12136,6 +12138,7 @@ payload:
   - DOMAIN,mdciaipm.com
   - DOMAIN,mdctrail.com
   - DOMAIN,mdlsrv.com
+  - DOMAIN,mdn2015x3.com
   - DOMAIN,mdnhinc.com
   - DOMAIN,mdownzone.com
   - DOMAIN,mdstrat.actonsoftware.com
@@ -12143,6 +12146,7 @@ payload:
   - DOMAIN,measuread.com
   - DOMAIN,measurelyapp.com
   - DOMAIN,meatspin.com
+  - DOMAIN,mebel.by.ru.fqwerz.cn
   - DOMAIN,med-api.admost.com
   - DOMAIN,med-dopomoga.com
   - DOMAIN,medcorehealthgroup.com
@@ -12809,6 +12813,7 @@ payload:
   - DOMAIN,musikzoo.com
   - DOMAIN,mustang-browser.com
   - DOMAIN,mustardtech.com
+  - DOMAIN,mutlubak.com
   - DOMAIN,muuojcu.xyz
   - DOMAIN,muvflix.com
   - DOMAIN,muwmedia.com
@@ -13507,7 +13512,6 @@ payload:
   - DOMAIN,octoclick.net
   - DOMAIN,octopus-prediction.com
   - DOMAIN,octopusgirl.com
-  - DOMAIN,octozoon.org
   - DOMAIN,oddbanner.bet-at-home.com
   - DOMAIN,odiabetikah.com
   - DOMAIN,odieamaka.000webhostapp.com
@@ -13573,7 +13577,6 @@ payload:
   - DOMAIN,okkuwait.com
   - DOMAIN,oknarai.ru
   - DOMAIN,okoshkah.com
-  - DOMAIN,okvfijgdmqton.bid
   - DOMAIN,oladesigngroup.com
   - DOMAIN,old.tiffanyamberhenson.com
   - DOMAIN,oldsite.jandrautorepair.com
@@ -15460,7 +15463,6 @@ payload:
   - DOMAIN,ripitee.com
   - DOMAIN,risehack.com
   - DOMAIN,risingindianews.com
-  - DOMAIN,riskfreebettingclub.com
   - DOMAIN,rivasearchpage.com
   - DOMAIN,riverparkbaseball.org
   - DOMAIN,rjtcrxzd.com
@@ -15826,6 +15828,7 @@ payload:
   - DOMAIN,scantanzania.com
   - DOMAIN,scarcesign.com
   - DOMAIN,scarcestream.com
+  - DOMAIN,scars-acne.com
   - DOMAIN,scarysquids.com
   - DOMAIN,scatteredheat.com
   - DOMAIN,scbl54virared.com
@@ -16539,7 +16542,6 @@ payload:
   - DOMAIN,slightlyoffcenter.net
   - DOMAIN,slimming21cn.com
   - DOMAIN,slipperysack.com
-  - DOMAIN,slontube.net
   - DOMAIN,slopeac.com
   - DOMAIN,sloppyhoes.com
   - DOMAIN,slotomania.newzgames.com
@@ -18336,7 +18338,6 @@ payload:
   - DOMAIN,track.msadcenter.kpuo.com
   - DOMAIN,track.msadcenter.krt.com
   - DOMAIN,track.msadcenter.llu.com
-  - DOMAIN,track.msadcenter.ltp.com
   - DOMAIN,track.msadcenter.lyv.com
   - DOMAIN,track.msadcenter.mazp.com
   - DOMAIN,track.msadcenter.mjze.com
@@ -20465,7 +20466,6 @@ payload:
   - DOMAIN,yeaysjbfeytrky.com
   - DOMAIN,yeesshh.com
   - DOMAIN,yekmas.tripod.com
-  - DOMAIN,yellow-directory-canada.com
   - DOMAIN,yellowcabnc.com
   - DOMAIN,yeltex7.com
   - DOMAIN,yemayafestival.com
@@ -48204,7 +48204,6 @@ payload:
   - DOMAIN-SUFFIX,mineralt.io
   - DOMAIN-SUFFIX,minerclaim.net
   - DOMAIN-SUFFIX,minercry.pt
-  - DOMAIN-SUFFIX,minergate.com
   - DOMAIN-SUFFIX,minero-proxy-01.now.sh
   - DOMAIN-SUFFIX,minero-proxy-02.now.sh
   - DOMAIN-SUFFIX,minero-proxy-03.now.sh
@@ -64977,6 +64976,7 @@ payload:
   - DOMAIN-SUFFIX,webmine.pro
   - DOMAIN-SUFFIX,webminepool.com
   - DOMAIN-SUFFIX,webminer.c3pool.com
+  - DOMAIN-SUFFIX,webminer.minergate.com
   - DOMAIN-SUFFIX,webminer.pro
   - DOMAIN-SUFFIX,webminerpool.com
   - DOMAIN-SUFFIX,webmining.co
