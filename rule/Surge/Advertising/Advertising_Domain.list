@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-09 02:32:57
+# UPDATED: 2021-06-10 02:26:57
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47542
-# DOMAIN: 20772
+# DOMAIN: 20760
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 68956
+# TOTAL: 68944
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -2520,7 +2520,6 @@ aimbothack.sharezips.net
 ainfinityperu.com
 aio.media
 aionfoundation.com
-air.1688.com
 air.fyber.com
 airboomnano.com
 airfunstore.com
@@ -3666,6 +3665,7 @@ bannerboxes.com
 bannerchange.net
 bannerco-op.com
 bannerexchange.cjb.net
+bannerexchange.com.au
 bannerexchange.troglod.com
 bannerhost.com
 bannerimage.com
@@ -6643,6 +6643,7 @@ dev1.redanchormedia.com
 dev4enki.com
 developer.subiz.com
 developers.cityads.com
+devestidosdenovia.com
 device-messaging-na.amazon.com
 device.maxmind.com
 devineindustrial.com
@@ -7915,7 +7916,6 @@ fekrhegypt.com
 felix.data.tm-awx.com
 feltrecoilshow.com
 feltsz.mystagingwebsite.com
-female-orgazm.com
 femalewrestlingnow.com
 femeedia.com
 fencepostbooks.com
@@ -10795,7 +10795,6 @@ journaldemourreal.com
 journeyshomehealthcare.org
 joy-leports.com
 joycasino.com
-joysunlandscape.com
 jozelmer.com
 jozmovie.xyz
 jpay.aliapp.com
@@ -11313,7 +11312,6 @@ lbip3171.nym2.appnexus.com
 lbservices2.fyber.com
 lc.livefyre.com
 lcd-studio.com
-lcloud-location.com
 ldgateway.com
 ldrtrack.com
 ldzqhq.biz
@@ -11415,6 +11413,7 @@ lezzyporn.com
 lf5am.x.incapdns.net
 lfatwater.com
 lfcraft.com
+lfhuaying.com
 lfscpttracking.com
 lg.appnexus.com
 lg.naukri.com
@@ -12257,6 +12256,7 @@ mega-gry.com
 megabestnews.net
 megaboxhd.com
 megacloudz.net
+megacpm.com
 megadirtyfiles.com
 megadown.net
 megadownloder.com
@@ -12641,7 +12641,6 @@ mola77.mobilenobo.com
 moldyicicle.com
 mologiq.net
 momoxxio.com
-monarchslo.com
 moncompte-ameli.com
 moncompte.grouperf.com
 monde-gourmandises.net
@@ -12784,7 +12783,6 @@ muchlovemom.net
 muchritfakethen.info
 mudmonster.org
 mueblesrustiko.com
-mueller-holz-bau.com
 multi.xnxx.com
 multifaithint.com
 multih2h.net16.net
@@ -13167,7 +13165,6 @@ new.unbounce.com
 new44chempics.890m.com
 newads.cmpnet.com
 newads.rediff.com
-newaugads.com
 newbetakey.com
 newbrowse.livehelper.com
 newclick.com
@@ -14271,7 +14268,6 @@ piratercomptefb.com
 piratercompteinstagram.xyz
 piraterfb.net
 piraterunfacebook.net
-pirdoust.com
 pitaya-organicos.com
 pitchforkny.com
 pitchtext.com
@@ -16147,7 +16143,6 @@ sex-interactive.com
 sex-journey.com
 sexgoesmobile.com
 sexinyourcity.com
-sexitnow.com
 sexpartnerx.com
 sexpennyauctions.com
 sexsaoy.com
@@ -16260,6 +16255,7 @@ sharqee.com
 shashintrivedi.com
 shazlyco.com
 shchaoneng.cn
+shcpa2011.com
 sheabutterworld.com
 shedwindowsandmore.net
 sheercover.inq.com
@@ -16342,7 +16338,6 @@ shoveac.com
 show-786.com
 show-do.com
 show-msgch.qq.com
-show.1688.com
 show.adsbing.com
 show.everytell.com
 showcore.net
@@ -16486,7 +16481,6 @@ skins-trading.com
 skinsbaron.com
 skinsbit.com
 skinscheck.com
-skinschecker.com
 skinsforce.com
 skinsfury.com
 skinsgang.com
@@ -17604,7 +17598,6 @@ tagular.com
 taherimay.com
 tahoesup.com
 tai.9998827.com
-tai450pingyang.shanjuzi.com
 tai777777.com
 taihehao.net
 tailorcave.com
@@ -18702,7 +18695,6 @@ tubecontext.com
 tubedspots.com
 tubemoviez.com
 tubgirl.org
-tucumanga.com
 tudasfaja.com
 tudaskor.com
 tudatosanelok.com
@@ -18980,7 +18972,6 @@ uptodatemovie.com
 uptopop.com
 upwardcall.net
 uqoboyvqsqpy.com
-urbancheats.com
 urbanclaire.com
 urbanenergyci.com
 urbanityadnetwork.com
@@ -19111,7 +19102,6 @@ v8push.pinsightmedia.com
 vaccgenocide.wordpress.com
 vaccineu.com
 vadideo.com
-vaigowoa.com
 vaingloryhack.net
 vaishaligarden.com
 vaishalimotors.com
@@ -20477,7 +20467,6 @@ yimingkennel.com
 yinmikbest.com
 yinputech.com
 yinyuanhotel.net
-yiqisese.com
 yiren02.com
 yisouxinxi.com
 yixingim.com
@@ -20695,7 +20684,6 @@ zhidao.greateasy.cn
 zhidao.shchaoneng.cn
 zhidao.shenyangxg.com
 zhidao.xinhuacybz.com
-zhidao.yxad.com
 zhizhishe.com
 zhongguociwang.com
 zhonghe-zg.com

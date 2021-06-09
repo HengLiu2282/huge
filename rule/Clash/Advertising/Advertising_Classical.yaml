@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-09 02:32:58
+# UPDATED: 2021-06-10 02:26:59
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47542
-# DOMAIN: 20772
+# DOMAIN: 20760
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68654
+# TOTAL: 68642
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2519,7 +2519,6 @@ payload:
   - DOMAIN,ainfinityperu.com
   - DOMAIN,aio.media
   - DOMAIN,aionfoundation.com
-  - DOMAIN,air.1688.com
   - DOMAIN,air.fyber.com
   - DOMAIN,airboomnano.com
   - DOMAIN,airfunstore.com
@@ -3665,6 +3664,7 @@ payload:
   - DOMAIN,bannerchange.net
   - DOMAIN,bannerco-op.com
   - DOMAIN,bannerexchange.cjb.net
+  - DOMAIN,bannerexchange.com.au
   - DOMAIN,bannerexchange.troglod.com
   - DOMAIN,bannerhost.com
   - DOMAIN,bannerimage.com
@@ -6642,6 +6642,7 @@ payload:
   - DOMAIN,dev4enki.com
   - DOMAIN,developer.subiz.com
   - DOMAIN,developers.cityads.com
+  - DOMAIN,devestidosdenovia.com
   - DOMAIN,device-messaging-na.amazon.com
   - DOMAIN,device.maxmind.com
   - DOMAIN,devineindustrial.com
@@ -7914,7 +7915,6 @@ payload:
   - DOMAIN,felix.data.tm-awx.com
   - DOMAIN,feltrecoilshow.com
   - DOMAIN,feltsz.mystagingwebsite.com
-  - DOMAIN,female-orgazm.com
   - DOMAIN,femalewrestlingnow.com
   - DOMAIN,femeedia.com
   - DOMAIN,fencepostbooks.com
@@ -10794,7 +10794,6 @@ payload:
   - DOMAIN,journeyshomehealthcare.org
   - DOMAIN,joy-leports.com
   - DOMAIN,joycasino.com
-  - DOMAIN,joysunlandscape.com
   - DOMAIN,jozelmer.com
   - DOMAIN,jozmovie.xyz
   - DOMAIN,jpay.aliapp.com
@@ -11312,7 +11311,6 @@ payload:
   - DOMAIN,lbservices2.fyber.com
   - DOMAIN,lc.livefyre.com
   - DOMAIN,lcd-studio.com
-  - DOMAIN,lcloud-location.com
   - DOMAIN,ldgateway.com
   - DOMAIN,ldrtrack.com
   - DOMAIN,ldzqhq.biz
@@ -11414,6 +11412,7 @@ payload:
   - DOMAIN,lf5am.x.incapdns.net
   - DOMAIN,lfatwater.com
   - DOMAIN,lfcraft.com
+  - DOMAIN,lfhuaying.com
   - DOMAIN,lfscpttracking.com
   - DOMAIN,lg.appnexus.com
   - DOMAIN,lg.naukri.com
@@ -12256,6 +12255,7 @@ payload:
   - DOMAIN,megabestnews.net
   - DOMAIN,megaboxhd.com
   - DOMAIN,megacloudz.net
+  - DOMAIN,megacpm.com
   - DOMAIN,megadirtyfiles.com
   - DOMAIN,megadown.net
   - DOMAIN,megadownloder.com
@@ -12640,7 +12640,6 @@ payload:
   - DOMAIN,moldyicicle.com
   - DOMAIN,mologiq.net
   - DOMAIN,momoxxio.com
-  - DOMAIN,monarchslo.com
   - DOMAIN,moncompte-ameli.com
   - DOMAIN,moncompte.grouperf.com
   - DOMAIN,monde-gourmandises.net
@@ -12783,7 +12782,6 @@ payload:
   - DOMAIN,muchritfakethen.info
   - DOMAIN,mudmonster.org
   - DOMAIN,mueblesrustiko.com
-  - DOMAIN,mueller-holz-bau.com
   - DOMAIN,multi.xnxx.com
   - DOMAIN,multifaithint.com
   - DOMAIN,multih2h.net16.net
@@ -13166,7 +13164,6 @@ payload:
   - DOMAIN,new44chempics.890m.com
   - DOMAIN,newads.cmpnet.com
   - DOMAIN,newads.rediff.com
-  - DOMAIN,newaugads.com
   - DOMAIN,newbetakey.com
   - DOMAIN,newbrowse.livehelper.com
   - DOMAIN,newclick.com
@@ -14270,7 +14267,6 @@ payload:
   - DOMAIN,piratercompteinstagram.xyz
   - DOMAIN,piraterfb.net
   - DOMAIN,piraterunfacebook.net
-  - DOMAIN,pirdoust.com
   - DOMAIN,pitaya-organicos.com
   - DOMAIN,pitchforkny.com
   - DOMAIN,pitchtext.com
@@ -16146,7 +16142,6 @@ payload:
   - DOMAIN,sex-journey.com
   - DOMAIN,sexgoesmobile.com
   - DOMAIN,sexinyourcity.com
-  - DOMAIN,sexitnow.com
   - DOMAIN,sexpartnerx.com
   - DOMAIN,sexpennyauctions.com
   - DOMAIN,sexsaoy.com
@@ -16259,6 +16254,7 @@ payload:
   - DOMAIN,shashintrivedi.com
   - DOMAIN,shazlyco.com
   - DOMAIN,shchaoneng.cn
+  - DOMAIN,shcpa2011.com
   - DOMAIN,sheabutterworld.com
   - DOMAIN,shedwindowsandmore.net
   - DOMAIN,sheercover.inq.com
@@ -16341,7 +16337,6 @@ payload:
   - DOMAIN,show-786.com
   - DOMAIN,show-do.com
   - DOMAIN,show-msgch.qq.com
-  - DOMAIN,show.1688.com
   - DOMAIN,show.adsbing.com
   - DOMAIN,show.everytell.com
   - DOMAIN,showcore.net
@@ -16485,7 +16480,6 @@ payload:
   - DOMAIN,skinsbaron.com
   - DOMAIN,skinsbit.com
   - DOMAIN,skinscheck.com
-  - DOMAIN,skinschecker.com
   - DOMAIN,skinsforce.com
   - DOMAIN,skinsfury.com
   - DOMAIN,skinsgang.com
@@ -17603,7 +17597,6 @@ payload:
   - DOMAIN,taherimay.com
   - DOMAIN,tahoesup.com
   - DOMAIN,tai.9998827.com
-  - DOMAIN,tai450pingyang.shanjuzi.com
   - DOMAIN,tai777777.com
   - DOMAIN,taihehao.net
   - DOMAIN,tailorcave.com
@@ -18701,7 +18694,6 @@ payload:
   - DOMAIN,tubedspots.com
   - DOMAIN,tubemoviez.com
   - DOMAIN,tubgirl.org
-  - DOMAIN,tucumanga.com
   - DOMAIN,tudasfaja.com
   - DOMAIN,tudaskor.com
   - DOMAIN,tudatosanelok.com
@@ -18979,7 +18971,6 @@ payload:
   - DOMAIN,uptopop.com
   - DOMAIN,upwardcall.net
   - DOMAIN,uqoboyvqsqpy.com
-  - DOMAIN,urbancheats.com
   - DOMAIN,urbanclaire.com
   - DOMAIN,urbanenergyci.com
   - DOMAIN,urbanityadnetwork.com
@@ -19110,7 +19101,6 @@ payload:
   - DOMAIN,vaccgenocide.wordpress.com
   - DOMAIN,vaccineu.com
   - DOMAIN,vadideo.com
-  - DOMAIN,vaigowoa.com
   - DOMAIN,vaingloryhack.net
   - DOMAIN,vaishaligarden.com
   - DOMAIN,vaishalimotors.com
@@ -20476,7 +20466,6 @@ payload:
   - DOMAIN,yinmikbest.com
   - DOMAIN,yinputech.com
   - DOMAIN,yinyuanhotel.net
-  - DOMAIN,yiqisese.com
   - DOMAIN,yiren02.com
   - DOMAIN,yisouxinxi.com
   - DOMAIN,yixingim.com
@@ -20694,7 +20683,6 @@ payload:
   - DOMAIN,zhidao.shchaoneng.cn
   - DOMAIN,zhidao.shenyangxg.com
   - DOMAIN,zhidao.xinhuacybz.com
-  - DOMAIN,zhidao.yxad.com
   - DOMAIN,zhizhishe.com
   - DOMAIN,zhongguociwang.com
   - DOMAIN,zhonghe-zg.com
