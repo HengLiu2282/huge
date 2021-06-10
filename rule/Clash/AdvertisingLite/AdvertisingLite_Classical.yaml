@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-10 02:26:59
+# UPDATED: 2021-06-11 02:25:54
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14744
+# DOMAIN: 14746
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27639
+# TOTAL: 27641
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -313,6 +313,7 @@ payload:
   - DOMAIN,3wr110.net
   - DOMAIN,3wr110.xyz
   - DOMAIN,4.up.qingdaonews.com
+  - DOMAIN,4008813318.com.cn
   - DOMAIN,404tracker.com
   - DOMAIN,407433bfc441.com
   - DOMAIN,40ceexln7929.com
@@ -601,6 +602,7 @@ payload:
   - DOMAIN,980th.com
   - DOMAIN,98bf9h8jbg.com
   - DOMAIN,98hx.cn
+  - DOMAIN,999d.com
   - DOMAIN,999fitness.com
   - DOMAIN,99a9339abed56.com
   - DOMAIN,99counters.com
@@ -4822,7 +4824,6 @@ payload:
   - DOMAIN,ds.haaretz.co.il
   - DOMAIN,ds02gfqy6io6i.cloudfront.net
   - DOMAIN,ds88pc0kw6cvc.cloudfront.net
-  - DOMAIN,dsd.dxwpedu.me
   - DOMAIN,dsh7ky7308k4b.cloudfront.net
   - DOMAIN,dsie7h4lo9wxu.cloudfront.net
   - DOMAIN,dsmmadvantage.com
@@ -4904,7 +4905,6 @@ payload:
   - DOMAIN,dywjcc.top
   - DOMAIN,dz4ad.com
   - DOMAIN,dzhss.cn
-  - DOMAIN,dzizsih.ru
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
   - DOMAIN,dzsstye.com
   - DOMAIN,e-contenta.com
@@ -5321,7 +5321,6 @@ payload:
   - DOMAIN,exogripper.com
   - DOMAIN,exomonyf.com
   - DOMAIN,exoticads.com
-  - DOMAIN,exovueplatform.com
   - DOMAIN,exp.360in.com
   - DOMAIN,experianmarketingservices.digital
   - DOMAIN,explorads.com
@@ -6212,6 +6211,7 @@ payload:
   - DOMAIN,gzbywl.com
   - DOMAIN,gzcl999.cn
   - DOMAIN,gzcl999.com
+  - DOMAIN,gzjtfzs.cn
   - DOMAIN,gzsadlmy.cn
   - DOMAIN,h-bid.com
   - DOMAIN,h01.hxsame.hexun.com
@@ -6534,6 +6534,7 @@ payload:
   - DOMAIN,hsleadflows.net
   - DOMAIN,hsmkj.net
   - DOMAIN,hsqujerwg.com
+  - DOMAIN,hsslx.com
   - DOMAIN,hst-19-33.splius.lt
   - DOMAIN,hstpnetwork.com
   - DOMAIN,hstrck.com
@@ -7550,6 +7551,7 @@ payload:
   - DOMAIN,leadfeeder.com
   - DOMAIN,leadforce1.com
   - DOMAIN,leadforensics.com
+  - DOMAIN,leadformix.com
   - DOMAIN,leadid.com
   - DOMAIN,leadin.com
   - DOMAIN,leadintel.io
@@ -7888,6 +7890,7 @@ payload:
   - DOMAIN,lunio.net
   - DOMAIN,luodiye01.cn
   - DOMAIN,luolikong.net
+  - DOMAIN,luomanzhubao.cn
   - DOMAIN,luravius.com
   - DOMAIN,lushcrush.com
   - DOMAIN,luvcash.com
@@ -9010,7 +9013,6 @@ payload:
   - DOMAIN,norteevu.com
   - DOMAIN,northstartravelmedia.com
   - DOMAIN,nortonfire.co.uk
-  - DOMAIN,norvalur.xyz
   - DOMAIN,notebookservisru.161.com1.ru
   - DOMAIN,notifadz.com
   - DOMAIN,notification-list.com
@@ -10377,7 +10379,6 @@ payload:
   - DOMAIN,qgnlbjkxrzb.com
   - DOMAIN,qgnqsebea.com
   - DOMAIN,qgwazwmlx.com
-  - DOMAIN,qhsyg.top
   - DOMAIN,qhupdate.com
   - DOMAIN,qianwei.wang
   - DOMAIN,qianyilamian.cn
@@ -11491,6 +11492,7 @@ payload:
   - DOMAIN,site24x7rum.com
   - DOMAIN,siteanaliz.org
   - DOMAIN,siteapps.com
+  - DOMAIN,sitebot.cn
   - DOMAIN,sitebrand.com
   - DOMAIN,sitebro.com
   - DOMAIN,sitebro.de
@@ -12432,7 +12434,6 @@ payload:
   - DOMAIN,tedioustooth.com
   - DOMAIN,tedropkinthenligh.pro
   - DOMAIN,teensexgfs.com
-  - DOMAIN,teesheel.net
   - DOMAIN,teinfo.wps.cn
   - DOMAIN,tek-tek-trek.com
   - DOMAIN,tel-tel-fie.com
@@ -14366,6 +14367,7 @@ payload:
   - DOMAIN,xnkmmbfpyokevaxsjtky.com
   - DOMAIN,xnxx.com
   - DOMAIN,xoalt.com
+  - DOMAIN,xoassxowovsrk.com
   - DOMAIN,xoliter.com
   - DOMAIN,xoomer.alice.it
   - DOMAIN,xorgwebs.webs.com

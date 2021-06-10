@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-10 02:26:58
+# UPDATED: 2021-06-11 02:25:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14744
+# DOMAIN: 14746
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 27935
+# TOTAL: 27937
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -314,6 +314,7 @@
 3wr110.net
 3wr110.xyz
 4.up.qingdaonews.com
+4008813318.com.cn
 404tracker.com
 407433bfc441.com
 40ceexln7929.com
@@ -602,6 +603,7 @@
 980th.com
 98bf9h8jbg.com
 98hx.cn
+999d.com
 999fitness.com
 99a9339abed56.com
 99counters.com
@@ -4823,7 +4825,6 @@ ds-recommender.styria.hr
 ds.haaretz.co.il
 ds02gfqy6io6i.cloudfront.net
 ds88pc0kw6cvc.cloudfront.net
-dsd.dxwpedu.me
 dsh7ky7308k4b.cloudfront.net
 dsie7h4lo9wxu.cloudfront.net
 dsmmadvantage.com
@@ -4905,7 +4906,6 @@ dyscb.cn
 dywjcc.top
 dz4ad.com
 dzhss.cn
-dzizsih.ru
 dzmxze7hxwn6b.cloudfront.net
 dzsstye.com
 e-contenta.com
@@ -5322,7 +5322,6 @@ exoclsodaqs.com
 exogripper.com
 exomonyf.com
 exoticads.com
-exovueplatform.com
 exp.360in.com
 experianmarketingservices.digital
 explorads.com
@@ -6213,6 +6212,7 @@ gynax.com
 gzbywl.com
 gzcl999.cn
 gzcl999.com
+gzjtfzs.cn
 gzsadlmy.cn
 h-bid.com
 h01.hxsame.hexun.com
@@ -6535,6 +6535,7 @@ hsdn.org
 hsleadflows.net
 hsmkj.net
 hsqujerwg.com
+hsslx.com
 hst-19-33.splius.lt
 hstpnetwork.com
 hstrck.com
@@ -7551,6 +7552,7 @@ leadelephant.com
 leadfeeder.com
 leadforce1.com
 leadforensics.com
+leadformix.com
 leadid.com
 leadin.com
 leadintel.io
@@ -7889,6 +7891,7 @@ lumpylumber.com
 lunio.net
 luodiye01.cn
 luolikong.net
+luomanzhubao.cn
 luravius.com
 lushcrush.com
 luvcash.com
@@ -9011,7 +9014,6 @@ normkela.com
 norteevu.com
 northstartravelmedia.com
 nortonfire.co.uk
-norvalur.xyz
 notebookservisru.161.com1.ru
 notifadz.com
 notification-list.com
@@ -10378,7 +10380,6 @@ qgevavwyafjf.com
 qgnlbjkxrzb.com
 qgnqsebea.com
 qgwazwmlx.com
-qhsyg.top
 qhupdate.com
 qianwei.wang
 qianyilamian.cn
@@ -11492,6 +11493,7 @@ site.flashx.cc
 site24x7rum.com
 siteanaliz.org
 siteapps.com
+sitebot.cn
 sitebrand.com
 sitebro.com
 sitebro.de
@@ -12433,7 +12435,6 @@ ted.dailymail.co.uk
 tedioustooth.com
 tedropkinthenligh.pro
 teensexgfs.com
-teesheel.net
 teinfo.wps.cn
 tek-tek-trek.com
 tel-tel-fie.com
@@ -14367,6 +14368,7 @@ xn--18225-zta.biz
 xnkmmbfpyokevaxsjtky.com
 xnxx.com
 xoalt.com
+xoassxowovsrk.com
 xoliter.com
 xoomer.alice.it
 xorgwebs.webs.com

@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-10 02:26:57
+# UPDATED: 2021-06-11 02:25:53
 # HOST-KEYWORD: 86
 # HOST-SUFFIX: 47542
-# HOST: 20760
+# HOST: 20754
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 68642
+# TOTAL: 68636
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -79,6 +79,7 @@ HOST,100extensionsforgames.com,Advertising
 HOST,100searchengines.com,Advertising
 HOST,100shemales.com,Advertising
 HOST,100webads.com,Advertising
+HOST,101billion.com,Advertising
 HOST,101homeschool.com,Advertising
 HOST,101malls.com,Advertising
 HOST,101order.com,Advertising
@@ -4993,7 +4994,6 @@ HOST,cdn1.clkoffers.com,Advertising
 HOST,cdn1.ettoday.net,Advertising
 HOST,cdn1.inspsearchapi.com,Advertising
 HOST,cdn1.mob-api.net,Advertising
-HOST,cdn1.njjlg.com,Advertising
 HOST,cdn1.zopiny.com,Advertising
 HOST,cdn1sitescout.edgesuite.net,Advertising
 HOST,cdn2.act-on.com,Advertising
@@ -5164,7 +5164,6 @@ HOST,cheatmyapp.com,Advertising
 HOST,cheatpointsgenerator.com,Advertising
 HOST,cheats4us.com,Advertising
 HOST,cheatsandhack.com,Advertising
-HOST,cheatsandhacks.net,Advertising
 HOST,cheatsandroid.com,Advertising
 HOST,cheatsbasis.com,Advertising
 HOST,cheatsbomb.com,Advertising
@@ -6695,7 +6694,6 @@ HOST,digital-control.com.cn,Advertising
 HOST,digital-hacks.com,Advertising
 HOST,digital.younetmedia.com,Advertising
 HOST,digitaldsp.com,Advertising
-HOST,digitalgamecheats.com,Advertising
 HOST,digitallyinspiredmedia.com,Advertising
 HOST,digitallyours.com,Advertising
 HOST,digitalmediaventures.com,Advertising
@@ -8543,6 +8541,7 @@ HOST,funtabsafe.com,Advertising
 HOST,funtoonez.com,Advertising
 HOST,funtravelperu.com,Advertising
 HOST,furniture-screws.com,Advertising
+HOST,furocmay.com,Advertising
 HOST,furrydrop.com,Advertising
 HOST,furrydrop.net,Advertising
 HOST,fusionquest.com,Advertising
@@ -11008,7 +11007,6 @@ HOST,keyrates.org,Advertising
 HOST,keyrolan.com,Advertising
 HOST,kf1.learnsaas.com,Advertising
 HOST,kfwpyyctzmpk.com,Advertising
-HOST,kgkjlivo.com,Advertising
 HOST,khancademy.com,Advertising
 HOST,khanshop.com,Advertising
 HOST,khaolakstationtour.com,Advertising
@@ -11678,7 +11676,6 @@ HOST,lolhello.com,Advertising
 HOST,lolmystery.net,Advertising
 HOST,lolshock.com,Advertising
 HOST,loltrain.com,Advertising
-HOST,lomaresidencial.com,Advertising
 HOST,loncar-ticic.com,Advertising
 HOST,lonedol.info,Advertising
 HOST,lonelywifehookup.com,Advertising
@@ -12321,7 +12318,6 @@ HOST,mesicnimsah.com,Advertising
 HOST,mesopotemia222.zapto.org,Advertising
 HOST,messagenovice.com,Advertising
 HOST,messagesfrommyheart1.com,Advertising
-HOST,messagespaceads.com,Advertising
 HOST,messagetag.com,Advertising
 HOST,messardu.com,Advertising
 HOST,meta-designs.com,Advertising
@@ -13370,7 +13366,6 @@ HOST,noxaffiliates.com,Advertising
 HOST,nqs.nice264.com,Advertising
 HOST,nrakhislk.com,Advertising
 HOST,nrc.tapas.net,Advertising
-HOST,nrectoqhwdhi.com,Advertising
 HOST,nrservicesgroup.com,Advertising
 HOST,ns.nint.ac.cn,Advertising
 HOST,ns1.123go.net,Advertising
@@ -15404,7 +15399,6 @@ HOST,rgmayedyahatevqyuc.com,Advertising
 HOST,rhads.sv.publicus.com,Advertising
 HOST,rheumatologyclinicpune.com,Advertising
 HOST,rhodeisland.sla.org,Advertising
-HOST,rhqkduodhizrr.com,Advertising
 HOST,rhussmann.com,Advertising
 HOST,ri.clickability.com,Advertising
 HOST,ribcagebags.com,Advertising
@@ -15546,6 +15540,7 @@ HOST,rpc.ant.com,Advertising
 HOST,rpgenerator.net,Advertising
 HOST,rpgmasterleague.com,Advertising
 HOST,rpm.newrelisc.com,Advertising
+HOST,rprewards.com,Advertising
 HOST,rpt.hpplay.cn,Advertising
 HOST,rq.adsbing.com,Advertising
 HOST,rq.adtrackdirect.com,Advertising
@@ -16542,7 +16537,6 @@ HOST,smart-m-system.com,Advertising
 HOST,smart-scripts.com,Advertising
 HOST,smart.8live.com,Advertising
 HOST,smart.arrowlauncher.com,Advertising
-HOST,smart.brvaffs.com,Advertising
 HOST,smart.hola.com,Advertising
 HOST,smart.tinyhoneybee.com,Advertising
 HOST,smart4ads.com,Advertising
@@ -16920,7 +16914,6 @@ HOST,staging.elemental-id.com,Advertising
 HOST,staging.novaonx.com,Advertising
 HOST,staging.stats.miui.com,Advertising
 HOST,stairgames.com,Advertising
-HOST,stairliftsarea.com,Advertising
 HOST,stairliftstrue.com,Advertising
 HOST,stakingscrew.com,Advertising
 HOST,stakingslope.com,Advertising
@@ -17514,6 +17507,7 @@ HOST,systweak.com,Advertising
 HOST,sz-loc.ushareit.com,Advertising
 HOST,szalonenagrody.com,Advertising
 HOST,szalonepromocje.com,Advertising
+HOST,szbangjie.cn,Advertising
 HOST,szczesliwydzien.com,Advertising
 HOST,szdamuzhi.com,Advertising
 HOST,szemlelo.com,Advertising
@@ -17868,7 +17862,6 @@ HOST,thebestpsncodegenerator.com,Advertising
 HOST,thebluesman.net,Advertising
 HOST,thebombadils.com,Advertising
 HOST,theborderhounds.com,Advertising
-HOST,thecarnells.com,Advertising
 HOST,theclashroyale.com,Advertising
 HOST,theclickers.net,Advertising
 HOST,theconroysflorist.com,Advertising
@@ -18103,7 +18096,6 @@ HOST,tokogrosirindonesia.com,Advertising
 HOST,tokolaris.xyz,Advertising
 HOST,toledolawnsprinklers.com,Advertising
 HOST,tomalinoalambres.com.ar,Advertising
-HOST,tomarjackson.com,Advertising
 HOST,tomatoartschool.com,Advertising
 HOST,tommysbookmarks.com,Advertising
 HOST,tommysbookmarks.net,Advertising
@@ -19496,6 +19488,7 @@ HOST,warezaccess.com,Advertising
 HOST,warezkeeper.com,Advertising
 HOST,warfacco.com,Advertising
 HOST,warioland.com,Advertising
+HOST,warnawira.com,Advertising
 HOST,warneracademy.com,Advertising
 HOST,warthunderhack.com,Advertising
 HOST,warwickvalleyliving.com,Advertising
@@ -20682,6 +20675,7 @@ HOST,zhidao.greateasy.cn,Advertising
 HOST,zhidao.shchaoneng.cn,Advertising
 HOST,zhidao.shenyangxg.com,Advertising
 HOST,zhidao.xinhuacybz.com,Advertising
+HOST,zhidao.yxad.com,Advertising
 HOST,zhizhishe.com,Advertising
 HOST,zhongguociwang.com,Advertising
 HOST,zhonghe-zg.com,Advertising

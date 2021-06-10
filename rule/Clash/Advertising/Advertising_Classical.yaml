@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-10 02:26:59
+# UPDATED: 2021-06-11 02:25:54
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47542
-# DOMAIN: 20760
+# DOMAIN: 20754
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68642
+# TOTAL: 68636
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -80,6 +80,7 @@ payload:
   - DOMAIN,100searchengines.com
   - DOMAIN,100shemales.com
   - DOMAIN,100webads.com
+  - DOMAIN,101billion.com
   - DOMAIN,101homeschool.com
   - DOMAIN,101malls.com
   - DOMAIN,101order.com
@@ -4994,7 +4995,6 @@ payload:
   - DOMAIN,cdn1.ettoday.net
   - DOMAIN,cdn1.inspsearchapi.com
   - DOMAIN,cdn1.mob-api.net
-  - DOMAIN,cdn1.njjlg.com
   - DOMAIN,cdn1.zopiny.com
   - DOMAIN,cdn1sitescout.edgesuite.net
   - DOMAIN,cdn2.act-on.com
@@ -5165,7 +5165,6 @@ payload:
   - DOMAIN,cheatpointsgenerator.com
   - DOMAIN,cheats4us.com
   - DOMAIN,cheatsandhack.com
-  - DOMAIN,cheatsandhacks.net
   - DOMAIN,cheatsandroid.com
   - DOMAIN,cheatsbasis.com
   - DOMAIN,cheatsbomb.com
@@ -6696,7 +6695,6 @@ payload:
   - DOMAIN,digital-hacks.com
   - DOMAIN,digital.younetmedia.com
   - DOMAIN,digitaldsp.com
-  - DOMAIN,digitalgamecheats.com
   - DOMAIN,digitallyinspiredmedia.com
   - DOMAIN,digitallyours.com
   - DOMAIN,digitalmediaventures.com
@@ -8544,6 +8542,7 @@ payload:
   - DOMAIN,funtoonez.com
   - DOMAIN,funtravelperu.com
   - DOMAIN,furniture-screws.com
+  - DOMAIN,furocmay.com
   - DOMAIN,furrydrop.com
   - DOMAIN,furrydrop.net
   - DOMAIN,fusionquest.com
@@ -11009,7 +11008,6 @@ payload:
   - DOMAIN,keyrolan.com
   - DOMAIN,kf1.learnsaas.com
   - DOMAIN,kfwpyyctzmpk.com
-  - DOMAIN,kgkjlivo.com
   - DOMAIN,khancademy.com
   - DOMAIN,khanshop.com
   - DOMAIN,khaolakstationtour.com
@@ -11679,7 +11677,6 @@ payload:
   - DOMAIN,lolmystery.net
   - DOMAIN,lolshock.com
   - DOMAIN,loltrain.com
-  - DOMAIN,lomaresidencial.com
   - DOMAIN,loncar-ticic.com
   - DOMAIN,lonedol.info
   - DOMAIN,lonelywifehookup.com
@@ -12322,7 +12319,6 @@ payload:
   - DOMAIN,mesopotemia222.zapto.org
   - DOMAIN,messagenovice.com
   - DOMAIN,messagesfrommyheart1.com
-  - DOMAIN,messagespaceads.com
   - DOMAIN,messagetag.com
   - DOMAIN,messardu.com
   - DOMAIN,meta-designs.com
@@ -13371,7 +13367,6 @@ payload:
   - DOMAIN,nqs.nice264.com
   - DOMAIN,nrakhislk.com
   - DOMAIN,nrc.tapas.net
-  - DOMAIN,nrectoqhwdhi.com
   - DOMAIN,nrservicesgroup.com
   - DOMAIN,ns.nint.ac.cn
   - DOMAIN,ns1.123go.net
@@ -15405,7 +15400,6 @@ payload:
   - DOMAIN,rhads.sv.publicus.com
   - DOMAIN,rheumatologyclinicpune.com
   - DOMAIN,rhodeisland.sla.org
-  - DOMAIN,rhqkduodhizrr.com
   - DOMAIN,rhussmann.com
   - DOMAIN,ri.clickability.com
   - DOMAIN,ribcagebags.com
@@ -15547,6 +15541,7 @@ payload:
   - DOMAIN,rpgenerator.net
   - DOMAIN,rpgmasterleague.com
   - DOMAIN,rpm.newrelisc.com
+  - DOMAIN,rprewards.com
   - DOMAIN,rpt.hpplay.cn
   - DOMAIN,rq.adsbing.com
   - DOMAIN,rq.adtrackdirect.com
@@ -16543,7 +16538,6 @@ payload:
   - DOMAIN,smart-scripts.com
   - DOMAIN,smart.8live.com
   - DOMAIN,smart.arrowlauncher.com
-  - DOMAIN,smart.brvaffs.com
   - DOMAIN,smart.hola.com
   - DOMAIN,smart.tinyhoneybee.com
   - DOMAIN,smart4ads.com
@@ -16921,7 +16915,6 @@ payload:
   - DOMAIN,staging.novaonx.com
   - DOMAIN,staging.stats.miui.com
   - DOMAIN,stairgames.com
-  - DOMAIN,stairliftsarea.com
   - DOMAIN,stairliftstrue.com
   - DOMAIN,stakingscrew.com
   - DOMAIN,stakingslope.com
@@ -17515,6 +17508,7 @@ payload:
   - DOMAIN,sz-loc.ushareit.com
   - DOMAIN,szalonenagrody.com
   - DOMAIN,szalonepromocje.com
+  - DOMAIN,szbangjie.cn
   - DOMAIN,szczesliwydzien.com
   - DOMAIN,szdamuzhi.com
   - DOMAIN,szemlelo.com
@@ -17869,7 +17863,6 @@ payload:
   - DOMAIN,thebluesman.net
   - DOMAIN,thebombadils.com
   - DOMAIN,theborderhounds.com
-  - DOMAIN,thecarnells.com
   - DOMAIN,theclashroyale.com
   - DOMAIN,theclickers.net
   - DOMAIN,theconroysflorist.com
@@ -18104,7 +18097,6 @@ payload:
   - DOMAIN,tokolaris.xyz
   - DOMAIN,toledolawnsprinklers.com
   - DOMAIN,tomalinoalambres.com.ar
-  - DOMAIN,tomarjackson.com
   - DOMAIN,tomatoartschool.com
   - DOMAIN,tommysbookmarks.com
   - DOMAIN,tommysbookmarks.net
@@ -19497,6 +19489,7 @@ payload:
   - DOMAIN,warezkeeper.com
   - DOMAIN,warfacco.com
   - DOMAIN,warioland.com
+  - DOMAIN,warnawira.com
   - DOMAIN,warneracademy.com
   - DOMAIN,warthunderhack.com
   - DOMAIN,warwickvalleyliving.com
@@ -20683,6 +20676,7 @@ payload:
   - DOMAIN,zhidao.shchaoneng.cn
   - DOMAIN,zhidao.shenyangxg.com
   - DOMAIN,zhidao.xinhuacybz.com
+  - DOMAIN,zhidao.yxad.com
   - DOMAIN,zhizhishe.com
   - DOMAIN,zhongguociwang.com
   - DOMAIN,zhonghe-zg.com

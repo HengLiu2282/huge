@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-10 02:26:59
+# UPDATED: 2021-06-11 02:25:54
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14744
+# DOMAIN: 14746
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27639
+# TOTAL: 27641
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -313,6 +313,7 @@ payload:
   - '3wr110.net'
   - '3wr110.xyz'
   - '4.up.qingdaonews.com'
+  - '4008813318.com.cn'
   - '404tracker.com'
   - '407433bfc441.com'
   - '40ceexln7929.com'
@@ -601,6 +602,7 @@ payload:
   - '980th.com'
   - '98bf9h8jbg.com'
   - '98hx.cn'
+  - '999d.com'
   - '999fitness.com'
   - '99a9339abed56.com'
   - '99counters.com'
@@ -4822,7 +4824,6 @@ payload:
   - 'ds.haaretz.co.il'
   - 'ds02gfqy6io6i.cloudfront.net'
   - 'ds88pc0kw6cvc.cloudfront.net'
-  - 'dsd.dxwpedu.me'
   - 'dsh7ky7308k4b.cloudfront.net'
   - 'dsie7h4lo9wxu.cloudfront.net'
   - 'dsmmadvantage.com'
@@ -4904,7 +4905,6 @@ payload:
   - 'dywjcc.top'
   - 'dz4ad.com'
   - 'dzhss.cn'
-  - 'dzizsih.ru'
   - 'dzmxze7hxwn6b.cloudfront.net'
   - 'dzsstye.com'
   - 'e-contenta.com'
@@ -5321,7 +5321,6 @@ payload:
   - 'exogripper.com'
   - 'exomonyf.com'
   - 'exoticads.com'
-  - 'exovueplatform.com'
   - 'exp.360in.com'
   - 'experianmarketingservices.digital'
   - 'explorads.com'
@@ -6212,6 +6211,7 @@ payload:
   - 'gzbywl.com'
   - 'gzcl999.cn'
   - 'gzcl999.com'
+  - 'gzjtfzs.cn'
   - 'gzsadlmy.cn'
   - 'h-bid.com'
   - 'h01.hxsame.hexun.com'
@@ -6534,6 +6534,7 @@ payload:
   - 'hsleadflows.net'
   - 'hsmkj.net'
   - 'hsqujerwg.com'
+  - 'hsslx.com'
   - 'hst-19-33.splius.lt'
   - 'hstpnetwork.com'
   - 'hstrck.com'
@@ -7550,6 +7551,7 @@ payload:
   - 'leadfeeder.com'
   - 'leadforce1.com'
   - 'leadforensics.com'
+  - 'leadformix.com'
   - 'leadid.com'
   - 'leadin.com'
   - 'leadintel.io'
@@ -7888,6 +7890,7 @@ payload:
   - 'lunio.net'
   - 'luodiye01.cn'
   - 'luolikong.net'
+  - 'luomanzhubao.cn'
   - 'luravius.com'
   - 'lushcrush.com'
   - 'luvcash.com'
@@ -9010,7 +9013,6 @@ payload:
   - 'norteevu.com'
   - 'northstartravelmedia.com'
   - 'nortonfire.co.uk'
-  - 'norvalur.xyz'
   - 'notebookservisru.161.com1.ru'
   - 'notifadz.com'
   - 'notification-list.com'
@@ -10377,7 +10379,6 @@ payload:
   - 'qgnlbjkxrzb.com'
   - 'qgnqsebea.com'
   - 'qgwazwmlx.com'
-  - 'qhsyg.top'
   - 'qhupdate.com'
   - 'qianwei.wang'
   - 'qianyilamian.cn'
@@ -11491,6 +11492,7 @@ payload:
   - 'site24x7rum.com'
   - 'siteanaliz.org'
   - 'siteapps.com'
+  - 'sitebot.cn'
   - 'sitebrand.com'
   - 'sitebro.com'
   - 'sitebro.de'
@@ -12432,7 +12434,6 @@ payload:
   - 'tedioustooth.com'
   - 'tedropkinthenligh.pro'
   - 'teensexgfs.com'
-  - 'teesheel.net'
   - 'teinfo.wps.cn'
   - 'tek-tek-trek.com'
   - 'tel-tel-fie.com'
@@ -14366,6 +14367,7 @@ payload:
   - 'xnkmmbfpyokevaxsjtky.com'
   - 'xnxx.com'
   - 'xoalt.com'
+  - 'xoassxowovsrk.com'
   - 'xoliter.com'
   - 'xoomer.alice.it'
   - 'xorgwebs.webs.com'

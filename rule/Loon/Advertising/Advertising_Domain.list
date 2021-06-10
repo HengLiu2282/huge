@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-10 02:26:58
+# UPDATED: 2021-06-11 02:25:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47542
-# DOMAIN: 20760
+# DOMAIN: 20754
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 68944
+# TOTAL: 68938
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -81,6 +81,7 @@
 100searchengines.com
 100shemales.com
 100webads.com
+101billion.com
 101homeschool.com
 101malls.com
 101order.com
@@ -4995,7 +4996,6 @@ cdn1.clkoffers.com
 cdn1.ettoday.net
 cdn1.inspsearchapi.com
 cdn1.mob-api.net
-cdn1.njjlg.com
 cdn1.zopiny.com
 cdn1sitescout.edgesuite.net
 cdn2.act-on.com
@@ -5166,7 +5166,6 @@ cheatmyapp.com
 cheatpointsgenerator.com
 cheats4us.com
 cheatsandhack.com
-cheatsandhacks.net
 cheatsandroid.com
 cheatsbasis.com
 cheatsbomb.com
@@ -6697,7 +6696,6 @@ digital-control.com.cn
 digital-hacks.com
 digital.younetmedia.com
 digitaldsp.com
-digitalgamecheats.com
 digitallyinspiredmedia.com
 digitallyours.com
 digitalmediaventures.com
@@ -8545,6 +8543,7 @@ funtabsafe.com
 funtoonez.com
 funtravelperu.com
 furniture-screws.com
+furocmay.com
 furrydrop.com
 furrydrop.net
 fusionquest.com
@@ -11010,7 +11009,6 @@ keyrates.org
 keyrolan.com
 kf1.learnsaas.com
 kfwpyyctzmpk.com
-kgkjlivo.com
 khancademy.com
 khanshop.com
 khaolakstationtour.com
@@ -11680,7 +11678,6 @@ lolhello.com
 lolmystery.net
 lolshock.com
 loltrain.com
-lomaresidencial.com
 loncar-ticic.com
 lonedol.info
 lonelywifehookup.com
@@ -12323,7 +12320,6 @@ mesicnimsah.com
 mesopotemia222.zapto.org
 messagenovice.com
 messagesfrommyheart1.com
-messagespaceads.com
 messagetag.com
 messardu.com
 meta-designs.com
@@ -13372,7 +13368,6 @@ noxaffiliates.com
 nqs.nice264.com
 nrakhislk.com
 nrc.tapas.net
-nrectoqhwdhi.com
 nrservicesgroup.com
 ns.nint.ac.cn
 ns1.123go.net
@@ -15406,7 +15401,6 @@ rgmayedyahatevqyuc.com
 rhads.sv.publicus.com
 rheumatologyclinicpune.com
 rhodeisland.sla.org
-rhqkduodhizrr.com
 rhussmann.com
 ri.clickability.com
 ribcagebags.com
@@ -15548,6 +15542,7 @@ rpc.ant.com
 rpgenerator.net
 rpgmasterleague.com
 rpm.newrelisc.com
+rprewards.com
 rpt.hpplay.cn
 rq.adsbing.com
 rq.adtrackdirect.com
@@ -16544,7 +16539,6 @@ smart-m-system.com
 smart-scripts.com
 smart.8live.com
 smart.arrowlauncher.com
-smart.brvaffs.com
 smart.hola.com
 smart.tinyhoneybee.com
 smart4ads.com
@@ -16922,7 +16916,6 @@ staging.elemental-id.com
 staging.novaonx.com
 staging.stats.miui.com
 stairgames.com
-stairliftsarea.com
 stairliftstrue.com
 stakingscrew.com
 stakingslope.com
@@ -17516,6 +17509,7 @@ systweak.com
 sz-loc.ushareit.com
 szalonenagrody.com
 szalonepromocje.com
+szbangjie.cn
 szczesliwydzien.com
 szdamuzhi.com
 szemlelo.com
@@ -17870,7 +17864,6 @@ thebestpsncodegenerator.com
 thebluesman.net
 thebombadils.com
 theborderhounds.com
-thecarnells.com
 theclashroyale.com
 theclickers.net
 theconroysflorist.com
@@ -18105,7 +18098,6 @@ tokogrosirindonesia.com
 tokolaris.xyz
 toledolawnsprinklers.com
 tomalinoalambres.com.ar
-tomarjackson.com
 tomatoartschool.com
 tommysbookmarks.com
 tommysbookmarks.net
@@ -19498,6 +19490,7 @@ warezaccess.com
 warezkeeper.com
 warfacco.com
 warioland.com
+warnawira.com
 warneracademy.com
 warthunderhack.com
 warwickvalleyliving.com
@@ -20684,6 +20677,7 @@ zhidao.greateasy.cn
 zhidao.shchaoneng.cn
 zhidao.shenyangxg.com
 zhidao.xinhuacybz.com
+zhidao.yxad.com
 zhizhishe.com
 zhongguociwang.com
 zhonghe-zg.com
