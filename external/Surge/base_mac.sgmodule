@@ -1,5 +1,6 @@
 #!name=Base
 #!desc=基础配置
+#!system=mac
 
 [General]
 loglevel = notify
