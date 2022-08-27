@@ -1,0 +1,78 @@
+#!name=Base
+#!desc=基础配置
+
+[General]
+loglevel = notify
+# 从 Surge iOS 4 / Surge Mac 3.3.0 起，工具开始支持 DoH
+doh-server = https://dns.alidns.com/dns-query
+# https://doh.pub/dns-query, https://13800000000.rubyfish.cn/, https://dns.google/dns-query
+tun-excluded-routes = 0.0.0.0/8, 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32
+skip-proxy = localhost, *.local, injections.adguard.org, local.adguard.org, captive.apple.com, guzzoni.apple.com, 0.0.0.0/8, 10.0.0.0/8, 17.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32
+wifi-assist = true
+allow-wifi-access = false
+wifi-access-http-port = 6152
+wifi-access-socks5-port = 6153
+http-listen = 0.0.0.0:6152
+socks5-listen = 0.0.0.0:6153
+external-controller-access = surgepasswd@0.0.0.0:6170
+replica = false
+tls-provider = default
+network-framework = false
+exclude-simple-hostnames = true
+ipv6 = true
+test-timeout = 5
+proxy-test-url = http://www.gstatic.com/generate_204
+hide-vpn-icon = true
+always-real-ip = *.apple.com
+http-api-web-dashboard = true
+http-api = 6171@0.0.0.0:6171
+ 
+[Replica]
+hide-apple-request = true
+hide-crashlytics-request = true
+use-keyword-filter = false
+hide-udp = false
+# -----------------------------
+# Surge 的几种策略配置规范，请参考 https://manual.nssurge.com/policy/proxy.html
+# 不同的代理策略有*很多*可选参数，请参考上方连接的 Parameters 一段，根据需求自行添加参数。
+# Surge 现已支持 UDP 转发功能，请参考: https://trello.com/c/ugOMxD3u/53-udp-%E8%BD%AC%E5%8F%91
+# Surge 现已支持 TCP-Fast-Open 技术，请参考: https://trello.com/c/ij65BU6Q/48-tcp-fast-open-troubleshooting-guide
+# Surge 现已支持 ss-libev 的全部加密方式和混淆，请参考: https://trello.com/c/BTr0vG1O/47-ss-libev-%E7%9A%84%E6%94%AF%E6%8C%81%E6%83%85%E5%86%B5
+# -----------------------------
+[Rule]
+# 屏蔽HTTP3/QUIC协议
+AND,((PROTOCOL,UDP), (DEST-PORT,443)),REJECT-NO-DROP
+# 屏蔽YouTube的UDP
+AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com)),REJECT-NO-DROP
+# 广告拦截
+RULE-SET,https://raw.githubusercontent.com/HengLiu2282/DivineEngine/master/Surge/Ruleset/Guard/Advertising.list,REJECT
+DOMAIN-SET,https://raw.githubusercontent.com/HengLiu2282/DivineEngine/master/Surge/Ruleset/Guard/AdvertisingPlus.list,REJECT
+# 国际流媒体服务
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list,Proxy
+# Telegram服务
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list,Proxy
+# 全球加速
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list,Proxy
+# 中国直连
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list,Direct
+RULE-SET,https://raw.githubusercontent.com/HengLiu2282/DivineEngine/master/Surge/Ruleset/DomesticIPs.list,Direct
+# Local Area Network 局域网
+RULE-SET,LAN,Direct
+# GeoIP China
+GEOIP,CN,Direct
+FINAL,Proxy,dns-failed
+ 
+[URL Rewrite]
+^https?://(www.)?(g|google).cn https://www.google.com 302
+(^https?:\/\/(?!redirector)[\w-]+\.googlevideo\.com\/((?!dclk_video_ads).)+)(ctier=L)(&.+) $1$3 302
+^https?:\/\/[\w-]+\.googlevideo\.com\/((?!(dclk_video_ads|videoplayback)).)+&(oad|ctier) - reject
+(^https?:\/\/(?!redirector)[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)(ctier=L)(&.+) $1$4 header
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+(&oad|ctier) - reject
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) url 302
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
+^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
+^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
+^https?:\/\/\s.youtube.com/api/stats/qoe?.*adformat= - reject
+ 
+[MITM]
+hostname = -redirector*.googlevideo.com, api.m.jd.com, *.googlevideo.com, www.youtube.com, s.youtube.com, .video.qq.com, v.qq.com, mobwsa.ximalaya.com, ifac*.iqiyi.com, account.huami.com, wq.jd.com, m.jingxi.com, me-api.jd.com, ms.jr.jd.com
