@@ -1,3 +1,6 @@
+#!name=TikTok-US
+#!desc=解锁 TikTok 美国
+
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) US 307
