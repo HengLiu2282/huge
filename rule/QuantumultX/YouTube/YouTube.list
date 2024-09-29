@@ -11,7 +11,6 @@
 # TOTAL: 182
 HOST,youtubei.googleapis.com,YouTube
 HOST,yt3.ggpht.com,YouTube
-HOST-SUFFIX,.youtube,YouTube
 HOST-SUFFIX,ggpht.cn,YouTube
 HOST-SUFFIX,ggpht.com,YouTube
 HOST-SUFFIX,googlevideo.com,YouTube
